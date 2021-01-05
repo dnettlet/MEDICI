@@ -1,0 +1,639 @@
+community;attribute;value;frequency
+ALL;AGE;18-25;2332
+ALL;AGE;26-35;1926
+ALL;AGE;36-45;794
+ALL;AGE;46-55;463
+ALL;AGE;56-65;1652
+ALL;AGE;66-75;2024
+ALL;AGE;76-85;445
+ALL;GENDER;Male;3228
+ALL;GENDER;Female;6418
+ALL;RESIDENCE;PaloAlto;2236
+ALL;RESIDENCE;SantaBarbara;1981
+ALL;RESIDENCE;Winthrop;912
+ALL;RESIDENCE;Boston;992
+ALL;RESIDENCE;Cambridge;1199
+ALL;RESIDENCE;SanJose;2310
+ALL;RELIGION;Buddhist;1320
+ALL;RELIGION;Christian;3292
+ALL;RELIGION;Hindu;1907
+ALL;RELIGION;Jewish;1459
+ALL;RELIGION;Muslim;935
+ALL;RELIGION;Sikh;90
+ALL;RELIGION;TraditionalSpirituality;0
+ALL;RELIGION;OtherReligion;0
+ALL;RELIGION;Noreligiousaffiliation;389
+ALL;MARITAL;Single;3416
+ALL;MARITAL;Married;3693
+ALL;MARITAL;Divorced;1144
+ALL;MARITAL;Widowed;1382
+ALL;PROFESSION;Manager;464
+ALL;PROFESSION;Professional;1008
+ALL;PROFESSION;Service;503
+ALL;PROFESSION;Salesandoffice;1547
+ALL;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+ALL;PROFESSION;Productiontransportationandmaterialmoving;0
+ALL;PROFESSION;Student;1978
+ALL;POLITICAL;FarLeft;1963
+ALL;POLITICAL;Left;1431
+ALL;POLITICAL;CenterLeft;2066
+ALL;POLITICAL;Center;1583
+ALL;POLITICAL;CenterRight;1023
+ALL;POLITICAL;Right;1516
+ALL;POLITICAL;FarRight;58
+ALL;SEXUALITY;Asexual;255
+ALL;SEXUALITY;Bisexual;464
+ALL;SEXUALITY;Heterosexual;8457
+ALL;SEXUALITY;Homosexual;477
+ALL;LIKE1;entertainment;3638
+ALL;LIKE1;music artist;1534
+ALL;LIKE1;drink brand;2282
+ALL;LIKE1;tv show;2185
+ALL;LIKE2;entertainment;2781
+ALL;LIKE2;music artist;1551
+ALL;LIKE2;tv show;3091
+ALL;LIKE2;drink brand;2214
+ALL;LIKE3;music artist;1261
+ALL;LIKE3;entertainment;4508
+ALL;LIKE3;drink brand;1688
+ALL;LIKE3;soccer club;2179
+9;AGE;18-25;5
+9;AGE;26-35;1
+9;AGE;36-45;3
+9;AGE;46-55;8
+9;AGE;56-65;61
+9;AGE;66-75;3
+9;AGE;76-85;0
+9;GENDER;Male;61
+9;GENDER;Female;20
+9;RESIDENCE;PaloAlto;7
+9;RESIDENCE;SantaBarbara;59
+9;RESIDENCE;Winthrop;5
+9;RESIDENCE;Boston;4
+9;RESIDENCE;Cambridge;1
+9;RESIDENCE;SanJose;5
+9;RELIGION;Buddhist;7
+9;RELIGION;Christian;2
+9;RELIGION;Hindu;67
+9;RELIGION;Jewish;0
+9;RELIGION;Muslim;0
+9;RELIGION;Sikh;5
+9;RELIGION;TraditionalSpirituality;0
+9;RELIGION;OtherReligion;0
+9;RELIGION;Noreligiousaffiliation;0
+9;MARITAL;Single;9
+9;MARITAL;Married;15
+9;MARITAL;Divorced;8
+9;MARITAL;Widowed;49
+9;PROFESSION;Manager;2
+9;PROFESSION;Professional;3
+9;PROFESSION;Service;3
+9;PROFESSION;Salesandoffice;1
+9;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+9;PROFESSION;Productiontransportationandmaterialmoving;0
+9;PROFESSION;Student;1
+9;POLITICAL;FarLeft;4
+9;POLITICAL;Left;62
+9;POLITICAL;CenterLeft;6
+9;POLITICAL;Center;5
+9;POLITICAL;CenterRight;2
+9;POLITICAL;Right;2
+9;POLITICAL;FarRight;0
+9;SEXUALITY;Asexual;0
+9;SEXUALITY;Bisexual;7
+9;SEXUALITY;Heterosexual;71
+9;SEXUALITY;Homosexual;3
+9;LIKE1;entertainment;12
+9;LIKE1;music artist;6
+9;LIKE1;drink brand;6
+9;LIKE1;tv show;57
+9;LIKE2;entertainment;66
+9;LIKE2;music artist;6
+9;LIKE2;tv show;6
+9;LIKE2;drink brand;3
+9;LIKE3;music artist;9
+9;LIKE3;entertainment;4
+9;LIKE3;drink brand;62
+9;LIKE3;soccer club;6
+8;AGE;18-25;5
+8;AGE;26-35;1
+8;AGE;36-45;0
+8;AGE;46-55;0
+8;AGE;56-65;0
+8;AGE;66-75;1
+8;AGE;76-85;0
+8;GENDER;Male;0
+8;GENDER;Female;7
+8;RESIDENCE;PaloAlto;0
+8;RESIDENCE;SantaBarbara;0
+8;RESIDENCE;Winthrop;7
+8;RESIDENCE;Boston;0
+8;RESIDENCE;Cambridge;0
+8;RESIDENCE;SanJose;0
+8;RELIGION;Buddhist;0
+8;RELIGION;Christian;5
+8;RELIGION;Hindu;1
+8;RELIGION;Jewish;0
+8;RELIGION;Muslim;0
+8;RELIGION;Sikh;0
+8;RELIGION;TraditionalSpirituality;0
+8;RELIGION;OtherReligion;0
+8;RELIGION;Noreligiousaffiliation;0
+8;MARITAL;Single;6
+8;MARITAL;Married;0
+8;MARITAL;Divorced;0
+8;MARITAL;Widowed;1
+8;PROFESSION;Manager;0
+8;PROFESSION;Professional;6
+8;PROFESSION;Service;0
+8;PROFESSION;Salesandoffice;0
+8;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+8;PROFESSION;Productiontransportationandmaterialmoving;0
+8;PROFESSION;Student;1
+8;POLITICAL;FarLeft;0
+8;POLITICAL;Left;0
+8;POLITICAL;CenterLeft;0
+8;POLITICAL;Center;1
+8;POLITICAL;CenterRight;5
+8;POLITICAL;Right;1
+8;POLITICAL;FarRight;0
+8;SEXUALITY;Asexual;0
+8;SEXUALITY;Bisexual;0
+8;SEXUALITY;Heterosexual;7
+8;SEXUALITY;Homosexual;0
+8;LIKE1;entertainment;5
+8;LIKE1;music artist;1
+8;LIKE1;drink brand;1
+8;LIKE1;tv show;0
+8;LIKE2;entertainment;1
+8;LIKE2;music artist;5
+8;LIKE2;tv show;1
+8;LIKE2;drink brand;0
+8;LIKE3;music artist;1
+8;LIKE3;entertainment;0
+8;LIKE3;drink brand;2
+8;LIKE3;soccer club;4
+7;AGE;18-25;0
+7;AGE;26-35;0
+7;AGE;36-45;0
+7;AGE;46-55;0
+7;AGE;56-65;1
+7;AGE;66-75;0
+7;AGE;76-85;0
+7;GENDER;Male;1
+7;GENDER;Female;0
+7;RESIDENCE;PaloAlto;0
+7;RESIDENCE;SantaBarbara;1
+7;RESIDENCE;Winthrop;0
+7;RESIDENCE;Boston;0
+7;RESIDENCE;Cambridge;0
+7;RESIDENCE;SanJose;0
+7;RELIGION;Buddhist;0
+7;RELIGION;Christian;0
+7;RELIGION;Hindu;1
+7;RELIGION;Jewish;0
+7;RELIGION;Muslim;0
+7;RELIGION;Sikh;0
+7;RELIGION;TraditionalSpirituality;0
+7;RELIGION;OtherReligion;0
+7;RELIGION;Noreligiousaffiliation;0
+7;MARITAL;Single;0
+7;MARITAL;Married;0
+7;MARITAL;Divorced;0
+7;MARITAL;Widowed;1
+7;PROFESSION;Manager;0
+7;PROFESSION;Professional;0
+7;PROFESSION;Service;0
+7;PROFESSION;Salesandoffice;0
+7;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+7;PROFESSION;Productiontransportationandmaterialmoving;0
+7;PROFESSION;Student;0
+7;POLITICAL;FarLeft;1
+7;POLITICAL;Left;0
+7;POLITICAL;CenterLeft;0
+7;POLITICAL;Center;0
+7;POLITICAL;CenterRight;0
+7;POLITICAL;Right;0
+7;POLITICAL;FarRight;0
+7;SEXUALITY;Asexual;0
+7;SEXUALITY;Bisexual;0
+7;SEXUALITY;Heterosexual;1
+7;SEXUALITY;Homosexual;0
+7;LIKE1;entertainment;0
+7;LIKE1;music artist;1
+7;LIKE1;drink brand;0
+7;LIKE1;tv show;0
+7;LIKE2;entertainment;0
+7;LIKE2;music artist;0
+7;LIKE2;tv show;1
+7;LIKE2;drink brand;0
+7;LIKE3;music artist;0
+7;LIKE3;entertainment;0
+7;LIKE3;drink brand;0
+7;LIKE3;soccer club;1
+6;AGE;18-25;15
+6;AGE;26-35;3
+6;AGE;36-45;0
+6;AGE;46-55;1
+6;AGE;56-65;0
+6;AGE;66-75;0
+6;AGE;76-85;0
+6;GENDER;Male;0
+6;GENDER;Female;19
+6;RESIDENCE;PaloAlto;0
+6;RESIDENCE;SantaBarbara;0
+6;RESIDENCE;Winthrop;17
+6;RESIDENCE;Boston;1
+6;RESIDENCE;Cambridge;1
+6;RESIDENCE;SanJose;0
+6;RELIGION;Buddhist;1
+6;RELIGION;Christian;6
+6;RELIGION;Hindu;0
+6;RELIGION;Jewish;11
+6;RELIGION;Muslim;1
+6;RELIGION;Sikh;0
+6;RELIGION;TraditionalSpirituality;0
+6;RELIGION;OtherReligion;0
+6;RELIGION;Noreligiousaffiliation;0
+6;MARITAL;Single;15
+6;MARITAL;Married;2
+6;MARITAL;Divorced;0
+6;MARITAL;Widowed;2
+6;PROFESSION;Manager;1
+6;PROFESSION;Professional;14
+6;PROFESSION;Service;3
+6;PROFESSION;Salesandoffice;1
+6;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+6;PROFESSION;Productiontransportationandmaterialmoving;0
+6;PROFESSION;Student;0
+6;POLITICAL;FarLeft;0
+6;POLITICAL;Left;1
+6;POLITICAL;CenterLeft;0
+6;POLITICAL;Center;1
+6;POLITICAL;CenterRight;15
+6;POLITICAL;Right;2
+6;POLITICAL;FarRight;0
+6;SEXUALITY;Asexual;0
+6;SEXUALITY;Bisexual;2
+6;SEXUALITY;Heterosexual;16
+6;SEXUALITY;Homosexual;1
+6;LIKE1;entertainment;3
+6;LIKE1;music artist;0
+6;LIKE1;drink brand;0
+6;LIKE1;tv show;16
+6;LIKE2;entertainment;3
+6;LIKE2;music artist;13
+6;LIKE2;tv show;0
+6;LIKE2;drink brand;3
+6;LIKE3;music artist;3
+6;LIKE3;entertainment;0
+6;LIKE3;drink brand;13
+6;LIKE3;soccer club;3
+5;AGE;18-25;347
+5;AGE;26-35;131
+5;AGE;36-45;22
+5;AGE;46-55;22
+5;AGE;56-65;8
+5;AGE;66-75;10
+5;AGE;76-85;8
+5;GENDER;Male;63
+5;GENDER;Female;487
+5;RESIDENCE;PaloAlto;18
+5;RESIDENCE;SantaBarbara;18
+5;RESIDENCE;Winthrop;380
+5;RESIDENCE;Boston;63
+5;RESIDENCE;Cambridge;48
+5;RESIDENCE;SanJose;22
+5;RELIGION;Buddhist;18
+5;RELIGION;Christian;67
+5;RELIGION;Hindu;27
+5;RELIGION;Jewish;16
+5;RELIGION;Muslim;392
+5;RELIGION;Sikh;0
+5;RELIGION;TraditionalSpirituality;0
+5;RELIGION;OtherReligion;0
+5;RELIGION;Noreligiousaffiliation;6
+5;MARITAL;Single;358
+5;MARITAL;Married;97
+5;MARITAL;Divorced;39
+5;MARITAL;Widowed;55
+5;PROFESSION;Manager;33
+5;PROFESSION;Professional;366
+5;PROFESSION;Service;50
+5;PROFESSION;Salesandoffice;54
+5;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+5;PROFESSION;Productiontransportationandmaterialmoving;0
+5;PROFESSION;Student;21
+5;POLITICAL;FarLeft;12
+5;POLITICAL;Left;40
+5;POLITICAL;CenterLeft;38
+5;POLITICAL;Center;54
+5;POLITICAL;CenterRight;379
+5;POLITICAL;Right;23
+5;POLITICAL;FarRight;3
+5;SEXUALITY;Asexual;14
+5;SEXUALITY;Bisexual;22
+5;SEXUALITY;Heterosexual;498
+5;SEXUALITY;Homosexual;16
+5;LIKE1;entertainment;99
+5;LIKE1;music artist;352
+5;LIKE1;drink brand;54
+5;LIKE1;tv show;44
+5;LIKE2;entertainment;103
+5;LIKE2;music artist;66
+5;LIKE2;tv show;336
+5;LIKE2;drink brand;44
+5;LIKE3;music artist;65
+5;LIKE3;entertainment;69
+5;LIKE3;drink brand;72
+5;LIKE3;soccer club;343
+4;AGE;18-25;137
+4;AGE;26-35;162
+4;AGE;36-45;90
+4;AGE;46-55;59
+4;AGE;56-65;265
+4;AGE;66-75;1688
+4;AGE;76-85;311
+4;GENDER;Male;319
+4;GENDER;Female;2392
+4;RESIDENCE;PaloAlto;335
+4;RESIDENCE;SantaBarbara;264
+4;RESIDENCE;Winthrop;115
+4;RESIDENCE;Boston;136
+4;RESIDENCE;Cambridge;132
+4;RESIDENCE;SanJose;1729
+4;RELIGION;Buddhist;57
+4;RELIGION;Christian;1178
+4;RELIGION;Hindu;67
+4;RELIGION;Jewish;1207
+4;RELIGION;Muslim;124
+4;RELIGION;Sikh;0
+4;RELIGION;TraditionalSpirituality;0
+4;RELIGION;OtherReligion;0
+4;RELIGION;Noreligiousaffiliation;14
+4;MARITAL;Single;706
+4;MARITAL;Married;1616
+4;MARITAL;Divorced;196
+4;MARITAL;Widowed;193
+4;PROFESSION;Manager;75
+4;PROFESSION;Professional;87
+4;PROFESSION;Service;104
+4;PROFESSION;Salesandoffice;106
+4;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+4;PROFESSION;Productiontransportationandmaterialmoving;0
+4;PROFESSION;Student;139
+4;POLITICAL;FarLeft;1726
+4;POLITICAL;Left;553
+4;POLITICAL;CenterLeft;125
+4;POLITICAL;Center;151
+4;POLITICAL;CenterRight;73
+4;POLITICAL;Right;79
+4;POLITICAL;FarRight;3
+4;SEXUALITY;Asexual;71
+4;SEXUALITY;Bisexual;116
+4;SEXUALITY;Heterosexual;2399
+4;SEXUALITY;Homosexual;127
+4;LIKE1;entertainment;1811
+4;LIKE1;music artist;322
+4;LIKE1;drink brand;319
+4;LIKE1;tv show;258
+4;LIKE2;entertainment;598
+4;LIKE2;music artist;323
+4;LIKE2;tv show;1523
+4;LIKE2;drink brand;267
+4;LIKE3;music artist;429
+4;LIKE3;entertainment;1555
+4;LIKE3;drink brand;367
+4;LIKE3;soccer club;360
+3;AGE;18-25;97
+3;AGE;26-35;123
+3;AGE;36-45;59
+3;AGE;46-55;252
+3;AGE;56-65;1227
+3;AGE;66-75;193
+3;AGE;76-85;42
+3;GENDER;Male;1059
+3;GENDER;Female;939
+3;RESIDENCE;PaloAlto;208
+3;RESIDENCE;SantaBarbara;1314
+3;RESIDENCE;Winthrop;81
+3;RESIDENCE;Boston;106
+3;RESIDENCE;Cambridge;99
+3;RESIDENCE;SanJose;182
+3;RELIGION;Buddhist;284
+3;RELIGION;Christian;82
+3;RELIGION;Hindu;1413
+3;RELIGION;Jewish;21
+3;RELIGION;Muslim;101
+3;RELIGION;Sikh;57
+3;RELIGION;TraditionalSpirituality;0
+3;RELIGION;OtherReligion;0
+3;RELIGION;Noreligiousaffiliation;5
+3;MARITAL;Single;512
+3;MARITAL;Married;620
+3;MARITAL;Divorced;171
+3;MARITAL;Widowed;691
+3;PROFESSION;Manager;59
+3;PROFESSION;Professional;74
+3;PROFESSION;Service;89
+3;PROFESSION;Salesandoffice;90
+3;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+3;PROFESSION;Productiontransportationandmaterialmoving;0
+3;PROFESSION;Student;89
+3;POLITICAL;FarLeft;31
+3;POLITICAL;Left;176
+3;POLITICAL;CenterLeft;90
+3;POLITICAL;Center;81
+3;POLITICAL;CenterRight;334
+3;POLITICAL;Right;1248
+3;POLITICAL;FarRight;33
+3;SEXUALITY;Asexual;59
+3;SEXUALITY;Bisexual;104
+3;SEXUALITY;Heterosexual;1747
+3;SEXUALITY;Homosexual;90
+3;LIKE1;entertainment;376
+3;LIKE1;music artist;286
+3;LIKE1;drink brand;231
+3;LIKE1;tv show;1104
+3;LIKE2;entertainment;1207
+3;LIKE2;music artist;285
+3;LIKE2;tv show;228
+3;LIKE2;drink brand;275
+3;LIKE3;music artist;277
+3;LIKE3;entertainment;1052
+3;LIKE3;drink brand;285
+3;LIKE3;soccer club;381
+2;AGE;18-25;157
+2;AGE;26-35;840
+2;AGE;36-45;117
+2;AGE;46-55;48
+2;AGE;56-65;32
+2;AGE;66-75;52
+2;AGE;76-85;36
+2;GENDER;Male;178
+2;GENDER;Female;1107
+2;RESIDENCE;PaloAlto;76
+2;RESIDENCE;SantaBarbara;80
+2;RESIDENCE;Winthrop;142
+2;RESIDENCE;Boston;176
+2;RESIDENCE;Cambridge;737
+2;RESIDENCE;SanJose;71
+2;RELIGION;Buddhist;870
+2;RELIGION;Christian;68
+2;RELIGION;Hindu;200
+2;RELIGION;Jewish;27
+2;RELIGION;Muslim;61
+2;RELIGION;Sikh;28
+2;RELIGION;TraditionalSpirituality;0
+2;RELIGION;OtherReligion;0
+2;RELIGION;Noreligiousaffiliation;9
+2;MARITAL;Single;277
+2;MARITAL;Married;366
+2;MARITAL;Divorced;486
+2;MARITAL;Widowed;150
+2;PROFESSION;Manager;126
+2;PROFESSION;Professional;175
+2;PROFESSION;Service;91
+2;PROFESSION;Salesandoffice;744
+2;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+2;PROFESSION;Productiontransportationandmaterialmoving;0
+2;PROFESSION;Student;86
+2;POLITICAL;FarLeft;52
+2;POLITICAL;Left;193
+2;POLITICAL;CenterLeft;168
+2;POLITICAL;Center;760
+2;POLITICAL;CenterRight;72
+2;POLITICAL;Right;38
+2;POLITICAL;FarRight;3
+2;SEXUALITY;Asexual;26
+2;SEXUALITY;Bisexual;65
+2;SEXUALITY;Heterosexual;1107
+2;SEXUALITY;Homosexual;90
+2;LIKE1;entertainment;823
+2;LIKE1;music artist;184
+2;LIKE1;drink brand;153
+2;LIKE1;tv show;125
+2;LIKE2;entertainment;298
+2;LIKE2;music artist;189
+2;LIKE2;tv show;666
+2;LIKE2;drink brand;129
+2;LIKE3;music artist;158
+2;LIKE3;entertainment;244
+2;LIKE3;drink brand;203
+2;LIKE3;soccer club;676
+1;AGE;18-25;1534
+1;AGE;26-35;609
+1;AGE;36-45;124
+1;AGE;46-55;51
+1;AGE;56-65;50
+1;AGE;66-75;59
+1;AGE;76-85;43
+1;GENDER;Male;1203
+1;GENDER;Female;1268
+1;RESIDENCE;PaloAlto;1571
+1;RESIDENCE;SantaBarbara;229
+1;RESIDENCE;Winthrop;102
+1;RESIDENCE;Boston;146
+1;RESIDENCE;Cambridge;138
+1;RESIDENCE;SanJose;281
+1;RELIGION;Buddhist;69
+1;RELIGION;Christian;1826
+1;RELIGION;Hindu;110
+1;RELIGION;Jewish;158
+1;RELIGION;Muslim;193
+1;RELIGION;Sikh;0
+1;RELIGION;TraditionalSpirituality;0
+1;RELIGION;OtherReligion;0
+1;RELIGION;Noreligiousaffiliation;34
+1;MARITAL;Single;1440
+1;MARITAL;Married;629
+1;MARITAL;Divorced;199
+1;MARITAL;Widowed;203
+1;PROFESSION;Manager;132
+1;PROFESSION;Professional;222
+1;PROFESSION;Service;126
+1;PROFESSION;Salesandoffice;203
+1;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+1;PROFESSION;Productiontransportationandmaterialmoving;0
+1;PROFESSION;Student;1615
+1;POLITICAL;FarLeft;123
+1;POLITICAL;Left;341
+1;POLITICAL;CenterLeft;1592
+1;POLITICAL;Center;169
+1;POLITICAL;CenterRight;123
+1;POLITICAL;Right;113
+1;POLITICAL;FarRight;10
+1;SEXUALITY;Asexual;66
+1;SEXUALITY;Bisexual;120
+1;SEXUALITY;Heterosexual;2164
+1;SEXUALITY;Homosexual;121
+1;LIKE1;entertainment;435
+1;LIKE1;music artist;302
+1;LIKE1;drink brand;1458
+1;LIKE1;tv show;274
+1;LIKE2;entertainment;433
+1;LIKE2;music artist;304
+1;LIKE2;tv show;271
+1;LIKE2;drink brand;1461
+1;LIKE3;music artist;269
+1;LIKE3;entertainment;1531
+1;LIKE3;drink brand;310
+1;LIKE3;soccer club;359
+0;AGE;18-25;35
+0;AGE;26-35;56
+0;AGE;36-45;379
+0;AGE;46-55;22
+0;AGE;56-65;8
+0;AGE;66-75;18
+0;AGE;76-85;5
+0;GENDER;Male;344
+0;GENDER;Female;179
+0;RESIDENCE;PaloAlto;21
+0;RESIDENCE;SantaBarbara;16
+0;RESIDENCE;Winthrop;63
+0;RESIDENCE;Boston;360
+0;RESIDENCE;Cambridge;43
+0;RESIDENCE;SanJose;20
+0;RELIGION;Buddhist;14
+0;RELIGION;Christian;58
+0;RELIGION;Hindu;21
+0;RELIGION;Jewish;19
+0;RELIGION;Muslim;63
+0;RELIGION;Sikh;0
+0;RELIGION;TraditionalSpirituality;0
+0;RELIGION;OtherReligion;0
+0;RELIGION;Noreligiousaffiliation;321
+0;MARITAL;Single;93
+0;MARITAL;Married;348
+0;MARITAL;Divorced;45
+0;MARITAL;Widowed;37
+0;PROFESSION;Manager;36
+0;PROFESSION;Professional;61
+0;PROFESSION;Service;37
+0;PROFESSION;Salesandoffice;348
+0;PROFESSION;Naturalresourcesconstructionandmaintenance;0
+0;PROFESSION;Productiontransportationandmaterialmoving;0
+0;PROFESSION;Student;26
+0;POLITICAL;FarLeft;14
+0;POLITICAL;Left;65
+0;POLITICAL;CenterLeft;47
+0;POLITICAL;Center;361
+0;POLITICAL;CenterRight;20
+0;POLITICAL;Right;10
+0;POLITICAL;FarRight;6
+0;SEXUALITY;Asexual;19
+0;SEXUALITY;Bisexual;28
+0;SEXUALITY;Heterosexual;447
+0;SEXUALITY;Homosexual;29
+0;LIKE1;entertainment;74
+0;LIKE1;music artist;80
+0;LIKE1;drink brand;60
+0;LIKE1;tv show;307
+0;LIKE2;entertainment;72
+0;LIKE2;music artist;360
+0;LIKE2;tv show;59
+0;LIKE2;drink brand;32
+0;LIKE3;music artist;50
+0;LIKE3;entertainment;53
+0;LIKE3;drink brand;374
+0;LIKE3;soccer club;46

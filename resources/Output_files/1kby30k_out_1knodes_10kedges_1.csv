@@ -1,0 +1,954 @@
+user;age;gender;residence;religion;maritalstatus;profession;politicalorientation;sexualorientation;numfriends;like1;like2;like3;classvalue;auth;community
+999;36-45;male;Winthrop;Christian;Married;Sales and office;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.054348;8
+998;56-65;male;San Jose;Hindu;Widowed;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.021739;9
+997;56-65;male;Cambridge;Hindu;Married;Student;Far Left;Bisexual;LOW;music artist;music artist;entertainment;NO;0.043478;7
+996;56-65;male;Boston;Christian;Widowed;Manager;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.065217;9
+995;18-25;male;Cambridge;Muslim;Married;Professional;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.043478;0
+994;56-65;female;San Jose;Jewish;Married;Production transportation;Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.076087;4
+993;18-25;female;San Jose;Christian;Single;Manager;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.076087;8
+992;36-45;female;Boston;Buddhist;Single;Professional;Left;Bisexual;LOW;music artist;tv show;soccer club;NO;0.043478;5
+991;36-45;female;Cambridge;Christian;Married;Sales and office;Right;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.054348;2
+990;26-35;female;Winthrop;Jewish;Single;Sales and office;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.054348;6
+989;46-55;female;San Jose;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.043478;7
+988;56-65;male;San Jose;Buddhist;Widowed;Student;Far Left;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.076087;3
+987;76-85;male;Boston;Christian;Married;Professional;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.043478;4
+986;36-45;female;Cambridge;Hindu;Single;Sales and office;Center Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.076087;2
+985;56-65;male;Santa Barbara;Hindu;Single;Professional;Left;Asexual;LOW;entertainment;entertainment;entertainment;NO;0.086957;7
+984;56-65;male;Santa Barbara;Hindu;Single;Professional;Left;Asexual;LOW;entertainment;entertainment;entertainment;NO;0.141304;7
+983;56-65;male;Cambridge;Hindu;Married;Student;Far Left;Bisexual;LOW;music artist;music artist;entertainment;NO;0.021739;7
+982;36-45;male;Winthrop;Christian;Married;Sales and office;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.043478;8
+979;56-65;male;Palo Alto;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.021739;9
+978;18-25;female;Winthrop;Jewish;Widowed;Manager;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.054348;6
+977;46-55;female;San Jose;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.043478;7
+976;56-65;female;Cambridge;Hindu;Married;Sales and office;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.152174;7
+975;18-25;male;Santa Barbara;Muslim;Married;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.021739;3
+973;18-25;female;San Jose;Jewish;Single;Manager;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.086957;6
+972;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.141304;5
+971;66-75;female;Winthrop;Christian;Single;Professional;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.076087;8
+970;56-65;male;Santa Barbara;Buddhist;Widowed;Professional;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.141304;3
+969;56-65;male;Santa Barbara;Buddhist;Widowed;Professional;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.152174;3
+968;26-35;female;Palo Alto;Muslim;Married;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.195652;5
+966;18-25;male;Winthrop;Hindu;Divorced;Service;Left;Asexual;LOW;music artist;music artist;entertainment;NO;0.054348;9
+965;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.130435;6
+964;18-25;male;Boston;Christian;Married;Sales and office;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.043478;8
+963;26-35;female;Palo Alto;Buddhist;Married;Professional;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.086957;2
+962;56-65;male;Santa Barbara;Hindu;Widowed;Production transportation;Left;Asexual;LOW;tv show;entertainment;drink brand;NO;0.076087;9
+960;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.021739;6
+957;18-25;female;Winthrop;Hindu;Divorced;Professional;Center Right;Asexual;LOW;entertainment;entertainment;music artist;NO;0.065217;8
+955;18-25;female;Cambridge;Hindu;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.130435;2
+953;18-25;male;Cambridge;Hindu;Single;Sales and office;Center;Heterosexual;LOW;music artist;tv show;drink brand;NO;0.141304;2
+951;76-85;female;Santa Barbara;Buddhist;Single;Student;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.097826;6
+950;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.141304;9
+949;18-25;female;Winthrop;Christian;Married;Student;Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;6
+948;66-75;male;Santa Barbara;Hindu;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.086957;3
+946;18-25;female;Boston;Other religions;Married;Student;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.086957;8
+945;26-35;female;Palo Alto;Other religions;Married;Student;Center Left;Bisexual;LOW;drink brand;drink brand;entertainment;NO;0.141304;1
+944;56-65;male;Winthrop;Buddhist;Married;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.021739;7
+943;18-25;female;Winthrop;Christian;Single;Student;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;2
+942;18-25;female;San Jose;Jewish;Single;Manager;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.097826;6
+941;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.163043;6
+940;36-45;male;Winthrop;No religious affiliation;Widowed;Professional;Left;Homosexual;LOW;drink brand;tv show;drink brand;NO;0.065217;0
+939;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.152174;3
+938;18-25;female;Winthrop;Christian;Single;Manager;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.217391;8
+937;18-25;male;San Jose;Buddhist;Single;Service;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.260870;1
+935;56-65;female;Santa Barbara;Buddhist;Married;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.043478;3
+934;56-65;female;Winthrop;Buddhist;Single;Sales and office;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.076087;9
+933;36-45;male;Boston;No religious affiliation;Married;Service;Center;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.043478;0
+932;56-65;male;Santa Barbara;Christian;Single;Service;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.130435;7
+931;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.032609;5
+930;66-75;female;San Jose;Jewish;Divorced;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.086957;4
+929;56-65;male;Santa Barbara;Buddhist;Widowed;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.086957;3
+928;56-65;male;San Jose;Buddhist;Widowed;Student;Far Left;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.065217;3
+927;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.108696;9
+926;36-45;male;Santa Barbara;Christian;Single;Professional;Center;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.086957;0
+925;18-25;female;Cambridge;Buddhist;Single;Sales and office;Center;Bisexual;LOW;music artist;music artist;entertainment;NO;0.065217;2
+924;26-35;female;Cambridge;Other religions;Married;Professional;Center;Homosexual;LOW;drink brand;tv show;drink brand;YES;0.119565;2
+923;18-25;male;Cambridge;Buddhist;Married;Production transportation;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+922;56-65;male;San Jose;Hindu;Widowed;Natural resources construction;Far Left;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.097826;7
+920;46-55;female;Boston;No religious affiliation;Divorced;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.108696;0
+919;46-55;male;San Jose;Hindu;Single;Natural resources construction;Center Left;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.086957;7
+918;18-25;female;Winthrop;Christian;Single;Service;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.065217;6
+917;26-35;female;Cambridge;Buddhist;Married;Sales and office;Right;Heterosexual;LOW;drink brand;tv show;drink brand;YES;0.097826;0
+916;36-45;female;Cambridge;Muslim;Single;Manager;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.130435;0
+915;56-65;male;Santa Barbara;Hindu;Widowed;Production transportation;Left;Asexual;LOW;tv show;entertainment;drink brand;NO;0.043478;9
+914;18-25;female;Palo Alto;Christian;Married;Natural resources construction;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.119565;6
+913;18-25;female;Winthrop;Buddhist;Widowed;Sales and office;Left;Bisexual;LOW;music artist;music artist;entertainment;NO;0.076087;2
+912;56-65;male;Santa Barbara;Buddhist;Widowed;Professional;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.152174;3
+911;36-45;female;Palo Alto;Hindu;Widowed;Service;Far Left;Asexual;LOW;entertainment;entertainment;music artist;NO;0.119565;7
+910;46-55;male;San Jose;Hindu;Single;Natural resources construction;Center Left;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.228261;7
+909;26-35;female;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.043478;1
+908;56-65;male;San Jose;Hindu;Single;Natural resources construction;Far Left;Bisexual;LOW;music artist;entertainment;soccer club;NO;0.260870;7
+907;56-65;male;Cambridge;Christian;Married;Service;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.217391;3
+906;56-65;male;San Jose;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;tv show;drink brand;NO;0.369565;7
+905;36-45;female;Santa Barbara;Jewish;Married;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.119565;4
+904;56-65;female;Boston;Hindu;Widowed;Student;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.076087;3
+903;76-85;female;Cambridge;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.065217;0
+902;18-25;male;Boston;Christian;Married;Sales and office;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.119565;8
+901;56-65;female;San Jose;Jewish;Married;Production transportation;Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.054348;4
+900;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.086957;9
+899;36-45;male;Palo Alto;Christian;Widowed;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.152174;1
+897;56-65;male;Palo Alto;Other religions;Married;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.108696;0
+896;36-45;male;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.108696;0
+895;26-35;female;Boston;Muslim;Divorced;Student;Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.152174;0
+894;18-25;female;Cambridge;Hindu;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.097826;2
+893;18-25;female;Cambridge;Hindu;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.184783;2
+892;18-25;female;Santa Barbara;Buddhist;Married;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.141304;9
+891;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.195652;2
+890;26-35;male;Palo Alto;Buddhist;Married;Sales and office;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.043478;2
+889;56-65;male;San Jose;Hindu;Single;Natural resources construction;Far Left;Bisexual;LOW;entertainment;entertainment;soccer club;NO;0.086957;7
+888;56-65;male;Cambridge;Hindu;Divorced;Natural resources construction;Right;Homosexual;LOW;music artist;music artist;entertainment;NO;0.108696;3
+887;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.184783;0
+886;26-35;female;Cambridge;Buddhist;Divorced;Professional;Center;Heterosexual;LOW;drink brand;tv show;soccer club;YES;0.086957;2
+885;56-65;male;San Jose;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+884;26-35;female;Winthrop;Christian;Single;Service;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.184783;8
+883;56-65;male;San Jose;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.260870;7
+882;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.141304;3
+880;18-25;female;Winthrop;Other religions;Married;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.163043;8
+879;66-75;female;Winthrop;Hindu;Divorced;Manager;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.217391;2
+878;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.163043;2
+876;46-55;female;Winthrop;No religious affiliation;Single;Sales and office;Center;Homosexual;LOW;tv show;music artist;drink brand;NO;0.250000;0
+875;56-65;male;Cambridge;Hindu;Married;Professional;Right;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.271739;3
+874;26-35;female;Winthrop;Christian;Single;Professional;Center;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.054348;8
+872;36-45;female;Winthrop;Christian;Single;Production transportation;Center Right;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.043478;4
+871;56-65;male;Winthrop;Hindu;Widowed;Natural resources construction;Far Left;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.065217;7
+870;56-65;male;Santa Barbara;Christian;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.054348;3
+869;56-65;male;Santa Barbara;Hindu;Single;Service;Left;Homosexual;LOW;drink brand;tv show;drink brand;NO;0.065217;3
+868;46-55;female;Palo Alto;Christian;Widowed;Manager;Center Left;Asexual;LOW;drink brand;drink brand;entertainment;NO;0.076087;1
+867;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.119565;7
+864;18-25;male;Winthrop;Muslim;Married;Sales and office;Center;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.043478;5
+863;66-75;female;Palo Alto;Christian;Married;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.043478;4
+858;46-55;female;Palo Alto;Christian;Widowed;Manager;Center Left;Asexual;LOW;drink brand;drink brand;entertainment;NO;0.065217;1
+857;76-85;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.086957;6
+856;36-45;male;San Jose;Other religions;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.086957;0
+855;66-75;female;Santa Barbara;Hindu;Married;Production transportation;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.163043;3
+854;18-25;female;Boston;Christian;Single;Professional;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.043478;8
+853;36-45;female;San Jose;Hindu;Married;Production transportation;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.173913;3
+852;26-35;female;Winthrop;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.119565;2
+851;18-25;female;Winthrop;Jewish;Widowed;Manager;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.206522;6
+850;56-65;female;Santa Barbara;Buddhist;Widowed;Student;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+849;26-35;female;Cambridge;Hindu;Divorced;Professional;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;YES;0.141304;6
+848;56-65;male;Santa Barbara;Buddhist;Widowed;Professional;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+847;36-45;male;Boston;Other religions;Married;Sales and office;Left;Homosexual;LOW;tv show;drink brand;soccer club;NO;0.152174;0
+846;26-35;male;Winthrop;Christian;Single;Natural resources construction;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.065217;3
+845;36-45;female;Santa Barbara;Buddhist;Widowed;Production transportation;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.271739;3
+844;56-65;male;Boston;Muslim;Married;Manager;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.141304;3
+843;26-35;female;Palo Alto;Hindu;Married;Sales and office;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.239130;2
+842;56-65;male;Santa Barbara;Hindu;Single;Production transportation;Right;Homosexual;LOW;music artist;music artist;entertainment;NO;0.076087;3
+841;76-85;male;Winthrop;Jewish;Single;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.032609;6
+839;46-55;male;Cambridge;Jewish;Married;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.043478;1
+838;18-25;female;Cambridge;Buddhist;Divorced;Production transportation;Far Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.119565;2
+837;56-65;female;San Jose;Hindu;Single;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+836;26-35;female;Cambridge;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;music artist;music artist;drink brand;YES;0.108696;2
+834;18-25;male;Cambridge;Buddhist;Married;Production transportation;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.086957;3
+833;26-35;male;Winthrop;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.076087;2
+832;36-45;male;Boston;No religious affiliation;Single;Manager;Center;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.141304;0
+831;66-75;female;Santa Barbara;Hindu;Married;Production transportation;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.097826;3
+830;26-35;female;Winthrop;Jewish;Single;Sales and office;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;6
+829;56-65;female;Cambridge;Hindu;Married;Student;Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.119565;2
+826;18-25;male;Boston;Other religions;Single;Manager;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.119565;0
+825;36-45;female;Boston;No religious affiliation;Married;Sales and office;Left;Homosexual;LOW;tv show;drink brand;soccer club;NO;0.076087;0
+824;66-75;female;Winthrop;Christian;Married;Sales and office;Center;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.152174;6
+823;46-55;female;Palo Alto;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.195652;3
+821;36-45;female;Cambridge;No religious affiliation;Single;Sales and office;Center;Homosexual;LOW;entertainment;music artist;drink brand;NO;0.173913;0
+820;76-85;male;Winthrop;Jewish;Single;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.282609;6
+818;26-35;female;Boston;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.184783;2
+817;66-75;male;Cambridge;No religious affiliation;Divorced;Service;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.141304;0
+816;18-25;female;Boston;Christian;Single;Natural resources construction;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.304348;6
+815;46-55;female;Santa Barbara;Hindu;Single;Production transportation;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.184783;3
+814;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.336957;3
+813;26-35;female;Winthrop;Christian;Divorced;Service;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.315217;8
+812;26-35;female;San Jose;Hindu;Married;Manager;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.391304;8
+811;36-45;female;Boston;No religious affiliation;Married;Natural resources construction;Center;Homosexual;LOW;drink brand;tv show;soccer club;NO;0.054348;0
+810;26-35;female;Winthrop;Christian;Single;Professional;Center;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.130435;8
+809;66-75;female;Palo Alto;Jewish;Married;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.076087;4
+807;56-65;male;Santa Barbara;Hindu;Married;Manager;Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.141304;3
+806;26-35;female;Winthrop;Jewish;Single;Sales and office;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;6
+805;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.152174;6
+804;26-35;female;Winthrop;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.065217;2
+803;66-75;male;Santa Barbara;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.086957;7
+802;36-45;male;Boston;Christian;Single;Professional;Center;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.152174;0
+801;26-35;female;Winthrop;Christian;Single;Professional;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;8
+799;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.260870;3
+798;56-65;male;Santa Barbara;Buddhist;Widowed;Manager;Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.206522;3
+797;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.206522;7
+795;36-45;female;Palo Alto;Hindu;Widowed;Service;Far Left;Asexual;LOW;entertainment;entertainment;music artist;NO;0.076087;7
+794;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.130435;8
+793;66-75;female;Palo Alto;Hindu;Married;Manager;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.195652;4
+792;26-35;female;San Jose;Hindu;Married;Service;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.130435;2
+790;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.163043;8
+789;18-25;male;Winthrop;Jewish;Married;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.282609;6
+787;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.206522;3
+786;56-65;female;San Jose;Other religions;Widowed;Production transportation;Far Left;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.130435;7
+785;26-35;female;Palo Alto;Christian;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.195652;6
+784;56-65;female;Palo Alto;Buddhist;Divorced;Student;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.271739;3
+783;56-65;female;Santa Barbara;Hindu;Widowed;Production transportation;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.250000;7
+782;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Center;Heterosexual;LOW;tv show;drink brand;drink brand;NO;0.260870;3
+781;26-35;female;Winthrop;Jewish;Married;Professional;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.413043;8
+780;26-35;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.130435;6
+779;26-35;female;Winthrop;Christian;Single;Professional;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.086957;8
+778;36-45;male;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.141304;0
+777;36-45;male;Boston;No religious affiliation;Divorced;Sales and office;Center;Bisexual;LOW;tv show;music artist;drink brand;NO;0.141304;0
+776;26-35;female;Cambridge;Buddhist;Married;Sales and office;Right;Heterosexual;LOW;drink brand;tv show;drink brand;YES;0.130435;0
+775;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.163043;8
+774;26-35;female;Winthrop;Christian;Married;Professional;Center Right;Bisexual;LOW;entertainment;music artist;soccer club;NO;0.304348;8
+773;18-25;female;Cambridge;Hindu;Widowed;Manager;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.097826;2
+772;18-25;female;Boston;Buddhist;Married;Service;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.141304;0
+771;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.130435;4
+770;18-25;female;Boston;Muslim;Single;Production transportation;Center Right;Bisexual;LOW;entertainment;music artist;soccer club;NO;0.239130;8
+769;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.173913;2
+768;36-45;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Asexual;LOW;tv show;drink brand;soccer club;NO;0.184783;3
+767;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;YES;0.206522;2
+766;18-25;female;Boston;Christian;Married;Manager;Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.467391;8
+765;56-65;male;Santa Barbara;Buddhist;Widowed;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+764;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.173913;6
+763;66-75;male;Cambridge;Hindu;Married;Professional;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.173913;0
+762;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Bisexual;LOW;entertainment;entertainment;entertainment;NO;0.250000;6
+761;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.195652;3
+760;26-35;female;Boston;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.282609;2
+759;36-45;male;San Jose;Other religions;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.195652;0
+758;26-35;male;Cambridge;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.347826;2
+757;66-75;female;Cambridge;Sikh;Divorced;Service;Center Right;Homosexual;LOW;music artist;music artist;drink brand;NO;0.173913;2
+756;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Center;Heterosexual;LOW;tv show;drink brand;drink brand;NO;0.217391;3
+755;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.228261;0
+754;18-25;female;Palo Alto;Buddhist;Single;Sales and office;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.326087;2
+753;26-35;female;Cambridge;Hindu;Divorced;Professional;Center;Heterosexual;LOW;drink brand;tv show;soccer club;YES;0.260870;2
+752;46-55;male;Cambridge;Hindu;Single;Manager;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.391304;2
+751;26-35;female;Cambridge;Hindu;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;soccer club;YES;0.445652;2
+750;26-35;female;Cambridge;Hindu;Married;Sales and office;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.391304;2
+749;36-45;male;Winthrop;Christian;Married;Sales and office;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.032609;8
+748;26-35;female;Winthrop;Christian;Single;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.043478;6
+747;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.043478;5
+746;26-35;female;Winthrop;Hindu;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.119565;0
+745;56-65;female;San Jose;Jewish;Married;Production transportation;Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.043478;4
+744;56-65;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Homosexual;LOW;music artist;music artist;drink brand;NO;0.054348;9
+743;18-25;female;Winthrop;Jewish;Single;Sales and office;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.021739;6
+742;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.108696;5
+741;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;music artist;music artist;;NO;0.054348;0
+740;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;music artist;music artist;;NO;0.043478;0
+739;36-45;male;Winthrop;Christian;Married;Sales and office;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.097826;8
+738;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.130435;9
+737;36-45;female;Boston;Christian;Widowed;Professional;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.065217;8
+736;36-45;female;Cambridge;Buddhist;Divorced;Professional;Center;Homosexual;LOW;entertainment;music artist;entertainment;NO;0.228261;2
+735;26-35;female;Winthrop;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.065217;2
+734;76-85;female;Santa Barbara;Hindu;Married;Natural resources construction;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.184783;9
+733;76-85;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.032609;6
+732;66-75;female;Winthrop;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.097826;2
+731;46-55;female;Boston;Buddhist;Divorced;Student;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.097826;2
+730;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.163043;6
+729;66-75;female;Cambridge;Buddhist;Divorced;Service;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.086957;2
+728;66-75;female;Palo Alto;Muslim;Widowed;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.076087;4
+727;18-25;male;Boston;Christian;Single;Service;Center Right;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.108696;8
+726;26-35;female;Winthrop;Christian;Divorced;Manager;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.184783;6
+725;36-45;female;San Jose;Hindu;Widowed;Sales and office;Right;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.065217;2
+724;36-45;female;Cambridge;Christian;Married;Sales and office;Right;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.108696;2
+723;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;YES;0.152174;2
+722;46-55;male;Cambridge;No religious affiliation;Married;Student;Far Left;Bisexual;LOW;tv show;music artist;drink brand;NO;0.195652;0
+721;18-25;male;Santa Barbara;Buddhist;Married;Service;Center;Homosexual;LOW;entertainment;tv show;soccer club;NO;0.076087;2
+720;66-75;male;San Jose;Christian;Married;Natural resources construction;Left;Bisexual;LOW;drink brand;tv show;soccer club;NO;0.108696;4
+719;18-25;female;Boston;Christian;Single;Professional;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.184783;8
+718;76-85;female;Santa Barbara;Hindu;Married;Natural resources construction;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.206522;9
+717;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.097826;9
+716;36-45;male;Boston;No religious affiliation;Married;Natural resources construction;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.119565;0
+715;36-45;male;Cambridge;Jewish;Married;Sales and office;Center Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.086957;0
+714;76-85;female;Santa Barbara;Muslim;Single;Natural resources construction;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.076087;0
+713;56-65;female;Cambridge;Buddhist;Single;Sales and office;Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.065217;2
+712;18-25;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.141304;2
+711;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.184783;2
+710;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.097826;8
+709;56-65;male;Santa Barbara;Hindu;Single;Production transportation;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.065217;3
+708;46-55;female;San Jose;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.086957;7
+707;36-45;female;Boston;No religious affiliation;Widowed;Sales and office;Far Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;0
+706;26-35;female;Cambridge;Christian;Divorced;Professional;Left;Heterosexual;LOW;music artist;tv show;soccer club;YES;0.119565;5
+705;46-55;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.217391;7
+704;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.195652;2
+703;36-45;male;Boston;No religious affiliation;Single;Manager;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.293478;0
+701;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.130435;6
+700;46-55;male;Santa Barbara;No religious affiliation;Widowed;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.141304;0
+699;36-45;male;Boston;No religious affiliation;Married;Student;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;0
+698;76-85;male;Cambridge;Buddhist;Divorced;Manager;Center;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.108696;2
+697;26-35;female;Cambridge;Buddhist;;Sales and office;;Heterosexual;LOW;entertainment;;;YES;0.130435;2
+696;56-65;male;Palo Alto;Hindu;Widowed;Natural resources construction;Right;Asexual;LOW;entertainment;entertainment;entertainment;NO;0.184783;9
+695;36-45;male;Boston;No religious affiliation;Widowed;Sales and office;Left;Homosexual;LOW;tv show;music artist;drink brand;NO;0.304348;0
+694;18-25;female;Winthrop;Christian;Married;Professional;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.130435;8
+693;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;YES;0.173913;2
+692;18-25;female;Boston;Christian;Divorced;Professional;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.152174;8
+691;76-85;male;Boston;No religious affiliation;Married;Sales and office;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.315217;0
+690;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.130435;5
+689;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center Left;Asexual;LOW;entertainment;tv show;soccer club;YES;0.250000;2
+688;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.173913;2
+687;36-45;male;Boston;No religious affiliation;Single;Manager;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.347826;0
+686;36-45;female;Boston;Other religions;Married;Sales and office;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.119565;0
+685;56-65;male;San Jose;Christian;Married;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.065217;7
+684;26-35;male;Winthrop;No religious affiliation;Married;Professional;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.173913;0
+683;18-25;male;Cambridge;Muslim;Married;Professional;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.173913;0
+682;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.065217;5
+681;18-25;male;Cambridge;Muslim;Married;Professional;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.097826;0
+680;36-45;male;Boston;No religious affiliation;Married;Manager;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.130435;0
+678;18-25;female;Cambridge;Buddhist;Divorced;Professional;Center;Homosexual;LOW;music artist;music artist;entertainment;NO;0.119565;2
+677;18-25;female;San Jose;Jewish;Single;Manager;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.097826;6
+676;26-35;male;Winthrop;Christian;Married;Manager;Center Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.195652;0
+675;18-25;female;Winthrop;Muslim;Married;Professional;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.108696;5
+674;46-55;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.250000;7
+673;56-65;male;San Jose;Hindu;Widowed;Natural resources construction;Far Left;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.217391;7
+672;36-45;female;Cambridge;Buddhist;Divorced;Manager;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.260870;2
+671;46-55;female;Boston;Hindu;Single;Natural resources construction;Center;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.086957;7
+670;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.108696;9
+669;36-45;male;Winthrop;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.141304;0
+668;66-75;female;Winthrop;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.097826;2
+667;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;YES;0.152174;2
+666;18-25;male;Cambridge;No religious affiliation;Single;Student;Center Left;Bisexual;LOW;tv show;music artist;drink brand;NO;0.184783;6
+665;26-35;female;Palo Alto;Muslim;Married;Manager;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.184783;1
+664;26-35;female;Winthrop;Christian;Single;Service;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.228261;8
+663;26-35;female;Cambridge;Muslim;Married;Sales and office;Center Left;Homosexual;LOW;entertainment;tv show;soccer club;YES;0.065217;2
+662;56-65;male;San Jose;Buddhist;Married;Natural resources construction;Center;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.152174;9
+661;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.173913;2
+660;36-45;female;Santa Barbara;Christian;Married;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.347826;9
+659;36-45;female;Cambridge;Buddhist;Single;Sales and office;Center;Bisexual;LOW;music artist;music artist;drink brand;NO;0.228261;2
+658;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.184783;9
+657;56-65;female;Cambridge;Buddhist;Widowed;Sales and office;Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.228261;2
+656;56-65;male;San Jose;Hindu;Married;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.391304;7
+655;76-85;female;Winthrop;Christian;Single;Student;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.043478;8
+654;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.076087;9
+653;36-45;male;Boston;No religious affiliation;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.141304;0
+652;18-25;male;Cambridge;Muslim;Married;Professional;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.163043;0
+651;26-35;female;Palo Alto;Buddhist;Married;Professional;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.228261;2
+650;36-45;male;Boston;No religious affiliation;Married;Natural resources construction;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.195652;0
+649;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.271739;0
+648;56-65;male;Santa Barbara;Hindu;Single;Production transportation;Right;Homosexual;LOW;music artist;music artist;entertainment;NO;0.141304;3
+647;18-25;male;Boston;Other religions;Single;Manager;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.086957;0
+646;36-45;male;Boston;Buddhist;Married;Manager;Center Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.152174;0
+645;26-35;female;Cambridge;Hindu;Married;Sales and office;Center;Heterosexual;LOW;tv show;drink brand;soccer club;YES;0.304348;2
+644;56-65;female;Palo Alto;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.206522;9
+643;36-45;male;Boston;Other religions;Married;Manager;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.206522;0
+642;26-35;male;Winthrop;Christian;Married;Professional;Center Right;Bisexual;LOW;entertainment;music artist;soccer club;NO;0.173913;8
+641;36-45;male;Palo Alto;Christian;Widowed;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.347826;1
+640;46-55;male;Boston;No religious affiliation;Divorced;Manager;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.163043;0
+639;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.184783;0
+638;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.184783;8
+637;36-45;female;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.260870;0
+636;26-35;male;San Jose;Hindu;Divorced;Sales and office;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.195652;0
+635;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;drink brand;YES;0.206522;2
+634;26-35;male;Cambridge;Buddhist;Widowed;Student;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.217391;2
+633;46-55;male;Santa Barbara;No religious affiliation;Widowed;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.434783;0
+632;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.152174;8
+631;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.173913;0
+630;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.304348;0
+629;36-45;male;Winthrop;No religious affiliation;Widowed;Professional;Left;Homosexual;LOW;drink brand;tv show;drink brand;NO;0.315217;0
+628;26-35;female;Cambridge;Hindu;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;YES;0.184783;2
+627;26-35;male;Cambridge;Buddhist;Widowed;Student;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.326087;2
+626;56-65;female;Santa Barbara;Buddhist;Divorced;Manager;Far Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.347826;9
+625;36-45;male;Palo Alto;Christian;Widowed;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.478261;1
+624;26-35;female;Santa Barbara;Buddhist;Single;Sales and office;Center Right;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.054348;2
+623;26-35;male;Palo Alto;Muslim;Married;Manager;Left;Asexual;LOW;tv show;drink brand;soccer club;NO;0.141304;0
+622;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.108696;0
+621;26-35;male;Boston;No religious affiliation;Married;Professional;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.108696;0
+620;26-35;female;Boston;Buddhist;Married;Student;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.130435;2
+619;26-35;female;Palo Alto;Buddhist;Married;Professional;Center;Heterosexual;LOW;entertainment;tv show;drink brand;NO;0.130435;2
+618;56-65;female;Santa Barbara;Christian;Widowed;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.086957;7
+617;56-65;male;Santa Barbara;Hindu;Widowed;Production transportation;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.250000;7
+616;36-45;male;Boston;Hindu;Single;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.032609;0
+615;56-65;female;Cambridge;Hindu;Married;Student;Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.108696;2
+614;56-65;female;Palo Alto;Jewish;Divorced;Student;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.076087;0
+613;26-35;male;Santa Barbara;Christian;Married;Sales and office;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.217391;2
+612;26-35;female;Cambridge;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.130435;2
+611;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.184783;2
+610;26-35;female;Santa Barbara;Hindu;Married;Sales and office;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.086957;2
+609;56-65;female;Cambridge;Hindu;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.206522;2
+608;26-35;female;Cambridge;Jewish;Widowed;Professional;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;YES;0.119565;6
+607;26-35;female;Palo Alto;Hindu;Married;Sales and office;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.076087;2
+606;56-65;female;Santa Barbara;Other religions;Married;Production transportation;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.097826;4
+605;56-65;female;Winthrop;Jewish;Single;Sales and office;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;6
+604;66-75;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;drink brand;NO;0.119565;2
+603;26-35;female;Cambridge;Buddhist;Single;Professional;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.228261;2
+602;26-35;female;Winthrop;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.195652;2
+601;26-35;female;Winthrop;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.282609;2
+600;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Center;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.152174;7
+599;46-55;female;Cambridge;Buddhist;Married;Sales and office;Right;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.206522;2
+598;26-35;female;Cambridge;Hindu;Married;Sales and office;Left;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.206522;2
+597;26-35;female;Winthrop;Jewish;Single;Sales and office;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.260870;6
+596;26-35;female;Cambridge;Hindu;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.163043;2
+595;76-85;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.293478;2
+594;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.228261;1
+593;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;soccer club;YES;0.358696;2
+592;36-45;male;Boston;Muslim;Married;Sales and office;Center Right;Asexual;LOW;tv show;music artist;drink brand;NO;0.097826;0
+591;26-35;female;Boston;Other religions;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.119565;0
+590;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.184783;0
+589;18-25;female;San Jose;Muslim;Married;Service;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.076087;2
+588;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.173913;2
+587;56-65;male;Palo Alto;Hindu;Married;Sales and office;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.217391;9
+586;36-45;male;Boston;No religious affiliation;Single;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;0
+585;36-45;female;Palo Alto;Muslim;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.065217;0
+584;18-25;male;Cambridge;Hindu;Single;Sales and office;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.228261;2
+583;18-25;female;San Jose;Christian;Single;Sales and office;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.195652;2
+582;36-45;female;Boston;Christian;Married;Sales and office;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.336957;0
+581;56-65;male;Cambridge;Other religions;Married;Sales and office;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.239130;0
+580;26-35;male;Winthrop;Buddhist;Single;Student;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.195652;2
+579;26-35;female;Cambridge;Hindu;Single;Sales and office;Center;Heterosexual;LOW;music artist;music artist;entertainment;YES;0.260870;2
+578;56-65;female;Cambridge;Hindu;Married;Student;Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.500000;2
+577;26-35;female;Winthrop;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.130435;2
+576;36-45;male;Santa Barbara;No religious affiliation;Single;Sales and office;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.076087;0
+575;46-55;female;Palo Alto;Buddhist;Married;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.195652;9
+574;18-25;male;Palo Alto;Christian;Single;Student;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.217391;6
+573;66-75;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;drink brand;NO;0.141304;2
+572;26-35;male;Cambridge;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.217391;2
+571;26-35;female;Winthrop;Christian;Single;Professional;Center;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.271739;8
+570;66-75;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.282609;2
+569;18-25;female;Cambridge;Hindu;Married;Professional;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.206522;2
+568;26-35;female;Boston;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.315217;2
+567;36-45;female;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.271739;0
+566;18-25;female;Winthrop;Christian;Single;Student;Far Left;Heterosexual;LOW;drink brand;music artist;drink brand;NO;0.532609;6
+565;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.184783;2
+564;18-25;female;Cambridge;Buddhist;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;soccer club;NO;0.434783;2
+563;18-25;female;San Jose;Sikh;Married;Sales and office;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.380435;2
+562;26-35;female;Cambridge;Hindu;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.510870;2
+561;56-65;male;Boston;Christian;Widowed;Student;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.065217;6
+560;36-45;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.010870;3
+559;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.163043;1
+558;26-35;male;Palo Alto;Buddhist;Married;Sales and office;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.097826;2
+557;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.152174;4
+556;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.260870;2
+555;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.293478;0
+553;56-65;male;Winthrop;Hindu;Widowed;Natural resources construction;Far Left;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.228261;7
+552;36-45;female;Palo Alto;Muslim;Single;Sales and office;Center;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.163043;0
+551;66-75;male;Santa Barbara;Hindu;Single;Service;Right;Homosexual;LOW;music artist;music artist;drink brand;NO;0.184783;7
+550;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.173913;2
+549;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.163043;7
+548;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.195652;0
+547;66-75;male;Winthrop;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.369565;7
+546;56-65;male;Boston;Hindu;Single;Production transportation;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.141304;7
+545;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;entertainment;NO;0.184783;7
+544;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.163043;4
+543;26-35;female;Santa Barbara;Christian;Single;Manager;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.239130;6
+542;66-75;male;Winthrop;Hindu;Single;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.141304;7
+541;26-35;female;San Jose;Jewish;Divorced;Production transportation;Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.163043;2
+540;18-25;female;Winthrop;Christian;Married;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.260870;6
+539;56-65;female;San Jose;Jewish;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.336957;4
+538;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.184783;7
+537;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.282609;2
+536;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.184783;6
+535;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.315217;7
+534;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;drink brand;YES;0.271739;2
+533;26-35;female;Winthrop;Jewish;Married;Sales and office;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.510870;2
+532;66-75;female;San Jose;Buddhist;Married;Sales and office;Center;Asexual;LOW;drink brand;tv show;drink brand;NO;0.369565;2
+531;46-55;male;Palo Alto;Hindu;Single;Natural resources construction;Left;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.500000;7
+530;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.184783;2
+529;26-35;male;Winthrop;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.163043;2
+528;36-45;male;Boston;No religious affiliation;Married;Service;Center;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.239130;0
+527;18-25;female;Cambridge;Christian;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.163043;2
+526;36-45;female;Boston;Buddhist;Widowed;Service;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.293478;2
+525;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.239130;1
+524;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.293478;0
+523;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.239130;6
+522;36-45;male;Boston;Hindu;Single;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.228261;0
+521;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;drink brand;drink brand;NO;0.293478;0
+520;36-45;female;Palo Alto;Muslim;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.391304;0
+519;26-35;female;Winthrop;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.271739;2
+518;26-35;female;Cambridge;Hindu;Married;Sales and office;Center Left;Asexual;LOW;music artist;music artist;drink brand;YES;0.500000;2
+517;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.380435;0
+516;36-45;female;Cambridge;Buddhist;Single;Manager;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.380435;2
+515;26-35;male;Boston;Muslim;Married;Professional;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.206522;0
+514;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.358696;0
+513;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.293478;0
+512;18-25;female;Boston;Buddhist;Married;Service;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.347826;0
+511;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.260870;2
+510;18-25;male;San Jose;Buddhist;Married;Sales and office;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.510870;2
+509;56-65;female;San Jose;Jewish;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.391304;4
+508;26-35;female;Cambridge;Hindu;Single;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.423913;2
+507;26-35;female;Boston;Buddhist;Single;Production transportation;Center Right;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.293478;2
+506;18-25;female;Winthrop;Christian;Single;Student;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.413043;2
+505;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.413043;0
+504;76-85;male;Palo Alto;Buddhist;Married;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.456522;2
+503;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.326087;2
+502;18-25;female;Cambridge;Buddhist;Divorced;Production transportation;Far Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.608696;2
+501;26-35;female;Boston;Hindu;Married;Student;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.554348;2
+500;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;soccer club;YES;0.684783;2
+498;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.032609;5
+497;66-75;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.043478;3
+496;66-75;female;Palo Alto;Hindu;Divorced;Production transportation;Right;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.054348;3
+495;18-25;male;Boston;Christian;Single;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.043478;1
+493;26-35;female;Winthrop;Christian;Divorced;Professional;Center Right;Bisexual;LOW;entertainment;entertainment;entertainment;NO;0.054348;5
+492;26-35;female;Santa Barbara;Hindu;Single;Student;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.119565;9
+490;46-55;female;San Jose;Hindu;Widowed;Natural resources construction;Left;Asexual;LOW;music artist;music artist;entertainment;NO;0.097826;9
+489;26-35;female;Winthrop;Christian;Single;Natural resources construction;Center Right;Homosexual;LOW;entertainment;music artist;soccer club;NO;0.097826;8
+488;56-65;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.141304;7
+487;56-65;male;San Jose;Buddhist;Widowed;Student;Far Left;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.076087;3
+486;56-65;female;San Jose;Hindu;Married;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.054348;3
+485;18-25;male;Cambridge;Buddhist;Single;Production transportation;Center Right;Bisexual;LOW;entertainment;entertainment;entertainment;NO;0.043478;3
+484;36-45;female;Boston;Buddhist;Single;Professional;Left;Bisexual;LOW;music artist;tv show;soccer club;NO;0.228261;5
+483;36-45;male;Winthrop;Christian;Widowed;Student;Center Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.032609;9
+482;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.010870;3
+481;18-25;male;Boston;Christian;Divorced;Professional;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.054348;8
+479;18-25;female;Winthrop;Muslim;Married;Manager;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.065217;8
+477;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.141304;8
+476;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.130435;5
+475;18-25;female;San Jose;Christian;Single;Service;Center Left;Homosexual;LOW;entertainment;entertainment;entertainment;NO;0.108696;1
+474;18-25;male;Winthrop;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.097826;2
+473;46-55;female;Santa Barbara;Buddhist;Married;Natural resources construction;Right;Heterosexual;LOW;drink brand;entertainment;drink brand;NO;0.108696;3
+472;46-55;male;San Jose;Hindu;Widowed;Production transportation;Center;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+471;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;3
+470;18-25;male;Cambridge;Other religions;Married;Professional;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.130435;3
+469;18-25;female;Winthrop;Christian;Married;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.217391;8
+468;56-65;male;Winthrop;Buddhist;Married;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.271739;7
+467;56-65;male;San Jose;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.076087;3
+466;56-65;male;Cambridge;Hindu;Married;Student;Far Left;Bisexual;LOW;music artist;music artist;entertainment;NO;0.086957;7
+465;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.152174;7
+463;56-65;male;San Jose;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.054348;7
+462;26-35;female;Boston;;Divorced;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.141304;0
+461;66-75;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;3
+460;36-45;female;Winthrop;Other religions;Married;Sales and office;Center;Homosexual;LOW;entertainment;entertainment;entertainment;NO;0.076087;0
+459;56-65;male;San Jose;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+458;26-35;female;Boston;;Divorced;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.076087;0
+457;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+456;36-45;male;Winthrop;Christian;Married;Sales and office;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.076087;8
+455;56-65;female;Cambridge;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.184783;3
+454;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.173913;8
+453;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;music artist;tv show;drink brand;YES;0.271739;2
+452;56-65;female;Palo Alto;Hindu;Married;Professional;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.043478;3
+451;18-25;male;Cambridge;Hindu;Married;Professional;Center Left;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+450;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+449;18-25;female;Winthrop;Christian;Widowed;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.184783;6
+448;56-65;male;Santa Barbara;Hindu;Single;Production transportation;Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.108696;3
+447;56-65;male;San Jose;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.173913;3
+446;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.173913;8
+445;18-25;female;Winthrop;Jewish;Married;Professional;Center Right;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.206522;6
+444;66-75;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+443;56-65;male;Santa Barbara;Hindu;Single;Production transportation;Right;Homosexual;LOW;music artist;music artist;entertainment;NO;0.239130;3
+442;76-85;female;Winthrop;Hindu;Single;Student;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.195652;3
+441;36-45;male;Boston;No religious affiliation;Single;Manager;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.250000;0
+440;66-75;male;Santa Barbara;Hindu;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.184783;3
+439;56-65;male;Cambridge;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.195652;3
+438;36-45;female;Santa Barbara;No religious affiliation;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.184783;0
+437;66-75;female;San Jose;Hindu;Married;Service;Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.434783;3
+436;18-25;male;Cambridge;Jewish;Single;Professional;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.032609;6
+435;56-65;male;San Jose;Christian;Married;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.097826;7
+434;36-45;male;Boston;Christian;Single;Professional;Center;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.108696;0
+433;36-45;female;Winthrop;Other religions;Married;Sales and office;Center;Homosexual;LOW;entertainment;entertainment;entertainment;NO;0.086957;0
+432;46-55;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;;entertainment;drink brand;NO;0.141304;3
+431;18-25;male;Cambridge;Jewish;Single;Professional;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.097826;6
+430;46-55;male;Santa Barbara;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.173913;3
+429;36-45;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.086957;3
+428;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+427;76-85;male;Boston;Christian;Married;Professional;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.097826;4
+426;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+425;56-65;male;Santa Barbara;Buddhist;Widowed;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.184783;3
+424;26-35;male;Santa Barbara;Muslim;Single;Sales and office;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.141304;3
+423;56-65;male;Cambridge;Hindu;Divorced;Natural resources construction;Right;Homosexual;LOW;music artist;music artist;entertainment;NO;0.217391;3
+422;56-65;male;San Jose;Buddhist;Widowed;Student;Far Left;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.250000;3
+421;66-75;male;San Jose;Buddhist;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+420;18-25;male;Cambridge;Jewish;Single;Professional;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.108696;6
+419;46-55;male;Cambridge;Muslim;Married;Natural resources construction;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.152174;3
+418;56-65;male;Santa Barbara;Hindu;Divorced;Production transportation;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.130435;7
+417;56-65;female;Santa Barbara;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;soccer club;NO;0.097826;3
+416;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+415;56-65;male;Santa Barbara;Buddhist;Divorced;Production transportation;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.141304;7
+414;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.206522;3
+413;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.032609;6
+412;46-55;male;Santa Barbara;Buddhist;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.130435;3
+411;66-75;male;San Jose;Buddhist;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+410;56-65;female;Santa Barbara;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.250000;7
+409;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.173913;3
+408;66-75;male;Palo Alto;Hindu;Divorced;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.250000;3
+407;56-65;male;San Jose;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.217391;7
+406;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.369565;3
+405;56-65;male;Palo Alto;Muslim;Widowed;Service;Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.130435;7
+404;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.065217;3
+403;36-45;male;Santa Barbara;Christian;Single;Professional;Center;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.152174;0
+402;56-65;female;Cambridge;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+401;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.097826;4
+400;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.173913;3
+399;18-25;female;Winthrop;Christian;Single;Professional;Right;Heterosexual;LOW;entertainment;entertainment;drink brand;NO;0.315217;6
+398;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.141304;3
+397;46-55;male;San Jose;Hindu;Widowed;Production transportation;Center;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.173913;3
+396;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.141304;9
+395;26-35;female;Santa Barbara;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.239130;9
+394;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+393;18-25;female;Winthrop;Christian;Married;Service;Center Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.282609;7
+392;66-75;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.228261;3
+391;18-25;male;Palo Alto;Hindu;Divorced;Natural resources construction;Center Right;Homosexual;LOW;tv show;drink brand;soccer club;NO;0.369565;9
+390;26-35;female;Cambridge;Buddhist;Married;Sales and office;Right;Heterosexual;LOW;drink brand;tv show;drink brand;YES;0.054348;0
+389;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.130435;3
+388;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;drink brand;NO;0.119565;0
+387;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.206522;0
+386;18-25;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.130435;2
+385;76-85;female;Winthrop;Muslim;Married;Professional;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.228261;6
+384;26-35;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.206522;8
+383;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.380435;6
+382;56-65;female;Boston;Hindu;Widowed;Student;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.097826;3
+381;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.195652;1
+380;36-45;male;Boston;Hindu;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.260870;0
+379;36-45;female;Santa Barbara;No religious affiliation;Single;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.380435;0
+378;18-25;female;Boston;Christian;Single;Service;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.195652;8
+377;66-75;male;Cambridge;Hindu;Married;Professional;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.326087;3
+376;66-75;female;Palo Alto;Hindu;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.336957;3
+375;56-65;female;Palo Alto;Sikh;Single;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.532609;3
+374;56-65;female;Winthrop;Hindu;Married;Professional;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.076087;3
+373;18-25;female;Winthrop;Jewish;Married;Professional;Center Right;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.032609;6
+372;66-75;male;Palo Alto;Hindu;Married;Natural resources construction;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.065217;7
+371;26-35;female;Winthrop;Christian;Single;;Center;Heterosexual;LOW;tv show;;;NO;0.097826;6
+370;56-65;male;Santa Barbara;Christian;Widowed;Production transportation;Far Left;Homosexual;LOW;music artist;tv show;soccer club;NO;0.076087;7
+369;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.097826;3
+368;18-25;female;Boston;Jewish;Single;Professional;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.065217;6
+367;18-25;female;Winthrop;Muslim;Married;Service;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.206522;5
+366;26-35;female;Palo Alto;Christian;Single;Natural resources construction;Center Right;Homosexual;LOW;tv show;entertainment;entertainment;NO;0.065217;3
+364;18-25;female;San Jose;Muslim;Single;Sales and office;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.076087;5
+363;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.173913;5
+362;76-85;female;Cambridge;Hindu;Married;Sales and office;Center Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.076087;2
+361;56-65;;;;;;;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.173913;3
+360;36-45;male;San Jose;Buddhist;Married;Natural resources construction;Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.119565;7
+359;56-65;female;Palo Alto;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.293478;3
+358;66-75;female;Santa Barbara;Buddhist;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+357;56-65;female;Cambridge;Hindu;Divorced;Service;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.097826;6
+356;36-45;male;Boston;No religious affiliation;Single;Sales and office;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.152174;0
+355;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;6
+354;18-25;male;Santa Barbara;Hindu;Married;Natural resources construction;Far Left;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+353;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.173913;7
+352;56-65;male;Santa Barbara;Hindu;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.184783;3
+351;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.195652;7
+350;18-25;female;Winthrop;Christian;Divorced;Production transportation;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.130435;6
+349;46-55;female;Santa Barbara;Buddhist;Married;Natural resources construction;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.228261;3
+348;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.163043;6
+347;66-75;female;Santa Barbara;Hindu;Married;Production transportation;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.217391;3
+346;26-35;male;Palo Alto;Christian;Married;Student;Center Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.097826;1
+345;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.239130;3
+344;56-65;female;Santa Barbara;Hindu;Divorced;Production transportation;Center Right;Homosexual;LOW;tv show;entertainment;entertainment;NO;0.293478;3
+343;36-45;male;Winthrop;Christian;Divorced;Student;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.423913;3
+342;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.097826;1
+341;56-65;male;Boston;Other religions;Married;Service;Center;Heterosexual;LOW;tv show;drink brand;entertainment;NO;0.086957;0
+340;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.217391;8
+339;18-25;male;Santa Barbara;Muslim;Married;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.097826;3
+338;56-65;female;Santa Barbara;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.195652;3
+337;18-25;female;Palo Alto;Other religions;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.195652;8
+336;26-35;female;Winthrop;Hindu;Married;Student;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.228261;3
+335;18-25;male;San Jose;Buddhist;Widowed;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;1
+334;56-65;female;Palo Alto;Buddhist;Divorced;Student;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.184783;3
+333;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.141304;6
+332;46-55;male;Winthrop;Buddhist;Single;Sales and office;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.217391;2
+331;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.260870;3
+330;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center Left;Homosexual;LOW;music artist;tv show;soccer club;YES;0.217391;2
+329;18-25;female;Winthrop;Christian;Married;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.282609;8
+328;66-75;male;Palo Alto;Hindu;Single;Student;Center Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.402174;1
+327;18-25;male;Palo Alto;Jewish;Widowed;Sales and office;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.119565;1
+326;56-65;male;Boston;Hindu;Widowed;Production transportation;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.141304;3
+325;26-35;female;Boston;Other religions;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.228261;0
+324;18-25;female;Winthrop;Christian;Widowed;Service;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.217391;6
+323;56-65;female;Palo Alto;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.195652;3
+322;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.250000;3
+321;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.260870;1
+320;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.336957;3
+319;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;entertainment;music artist;soccer club;NO;0.152174;8
+318;56-65;female;Santa Barbara;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.217391;3
+317;56-65;male;Santa Barbara;Hindu;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.282609;3
+316;26-35;female;Winthrop;Hindu;Married;Professional;Left;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.391304;6
+315;46-55;female;Palo Alto;Hindu;Single;Natural resources construction;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.326087;3
+314;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.445652;3
+313;18-25;female;Winthrop;Christian;Single;Professional;Center;Heterosexual;LOW;entertainment;entertainment;soccer club;NO;0.271739;8
+312;66-75;female;Palo Alto;Christian;Married;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.663043;4
+311;56-65;male;Santa Barbara;Hindu;Widowed;Production transportation;Far Left;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.108696;7
+310;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.152174;7
+309;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.152174;3
+308;56-65;male;Santa Barbara;Christian;Single;Natural resources construction;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.097826;3
+307;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.141304;4
+306;66-75;female;San Jose;Jewish;Divorced;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.217391;4
+305;18-25;female;Santa Barbara;Hindu;Divorced;Production transportation;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.184783;3
+304;56-65;female;Santa Barbara;Hindu;Divorced;Student;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.086957;7
+303;56-65;female;Santa Barbara;Hindu;Widowed;Professional;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.163043;7
+302;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.152174;7
+301;18-25;female;Palo Alto;Muslim;Married;Professional;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.184783;6
+300;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.163043;3
+299;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.173913;3
+298;56-65;female;Santa Barbara;Christian;Widowed;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.217391;7
+297;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.347826;3
+296;46-55;female;Palo Alto;Christian;Widowed;Manager;Center Left;Asexual;LOW;drink brand;drink brand;entertainment;NO;0.054348;1
+295;76-85;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.206522;6
+294;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.141304;6
+293;18-25;male;Boston;Jewish;Widowed;Professional;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.304348;6
+292;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.163043;6
+291;36-45;female;San Jose;Other religions;Single;Service;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.293478;4
+290;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.282609;6
+289;18-25;female;Palo Alto;Muslim;Married;Natural resources construction;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.500000;6
+288;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+287;26-35;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.260870;6
+286;46-55;male;Santa Barbara;Hindu;Married;Manager;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.173913;3
+285;56-65;female;Santa Barbara;Hindu;Married;Production transportation;Far Left;Bisexual;LOW;music artist;tv show;soccer club;NO;0.304348;7
+284;56-65;female;Santa Barbara;Muslim;Single;Natural resources construction;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.282609;3
+283;18-25;male;Santa Barbara;Muslim;Married;Service;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.217391;6
+282;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.478261;3
+281;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.608696;3
+280;18-25;male;Palo Alto;Jewish;Widowed;Sales and office;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.163043;1
+278;36-45;male;Boston;No religious affiliation;Married;Manager;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.304348;0
+277;18-25;female;Palo Alto;No religious affiliation;Single;Student;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.173913;1
+276;36-45;male;Boston;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.228261;0
+275;56-65;female;San Jose;Jewish;Single;Production transportation;Far Left;Asexual;LOW;entertainment;entertainment;entertainment;NO;0.239130;4
+274;26-35;male;San Jose;Jewish;Single;Production transportation;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.369565;4
+273;36-45;male;Winthrop;Muslim;Widowed;Student;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.152174;3
+272;36-45;male;Cambridge;Christian;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.206522;0
+271;56-65;male;Santa Barbara;Hindu;Divorced;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.184783;3
+270;56-65;female;Santa Barbara;Buddhist;Widowed;Production transportation;Center Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.304348;3
+269;18-25;male;Winthrop;Christian;Divorced;Professional;Center;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.217391;5
+268;56-65;male;Santa Barbara;Christian;Widowed;Production transportation;Far Left;Homosexual;LOW;music artist;tv show;soccer club;NO;0.391304;7
+267;46-55;female;Palo Alto;Christian;Single;Professional;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.402174;1
+266;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.467391;3
+265;76-85;female;Winthrop;Christian;Divorced;Professional;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.130435;8
+264;26-35;female;Boston;Hindu;Married;Professional;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.228261;6
+263;18-25;female;Boston;Jewish;Single;Manager;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.217391;8
+262;26-35;female;Winthrop;Christian;Married;Professional;Center Right;Heterosexual;LOW;tv show;entertainment;soccer club;NO;0.380435;6
+261;46-55;male;Santa Barbara;Buddhist;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.195652;3
+260;46-55;male;Santa Barbara;Hindu;Married;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.369565;3
+259;18-25;female;Santa Barbara;Christian;Married;Manager;Center Right;Bisexual;LOW;drink brand;tv show;soccer club;NO;0.326087;8
+258;36-45;male;San Jose;Other religions;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.565217;0
+257;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.326087;3
+256;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.336957;3
+255;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.380435;3
+254;26-35;male;Boston;Hindu;Married;Sales and office;Left;Homosexual;LOW;tv show;drink brand;soccer club;NO;0.619565;0
+253;26-35;female;Santa Barbara;Hindu;Divorced;Natural resources construction;Right;Asexual;LOW;drink brand;tv show;soccer club;NO;0.282609;3
+252;56-65;female;Cambridge;Hindu;Single;Natural resources construction;Center;Homosexual;LOW;tv show;entertainment;entertainment;NO;0.543478;3
+251;18-25;female;Winthrop;Christian;Divorced;Student;Center;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.423913;8
+250;56-65;male;Santa Barbara;Hindu;Married;Service;Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.597826;3
+249;76-85;female;Santa Barbara;Muslim;Single;Natural resources construction;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.054348;0
+247;26-35;male;Santa Barbara;Hindu;Single;Production transportation;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.032609;9
+246;18-25;female;Winthrop;Jewish;Married;Sales and office;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.097826;6
+245;56-65;male;Santa Barbara;Hindu;Married;Production transportation;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.076087;3
+244;56-65;male;Boston;Buddhist;Married;Service;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.086957;9
+243;26-35;female;Winthrop;Jewish;Married;Professional;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.076087;6
+242;26-35;female;Winthrop;Jewish;Widowed;Professional;Center Right;Heterosexual;LOW;tv show;drink brand;drink brand;NO;0.097826;6
+241;56-65;male;San Jose;Hindu;Married;Natural resources construction;Center Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.065217;9
+240;36-45;female;Boston;No religious affiliation;Single;Student;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.097826;0
+239;26-35;male;Winthrop;Christian;Married;Professional;Center Right;Bisexual;LOW;entertainment;music artist;soccer club;NO;0.043478;8
+238;56-65;female;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.097826;7
+237;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.130435;1
+236;66-75;female;Santa Barbara;Jewish;Married;Professional;Center;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.152174;7
+235;46-55;female;San Jose;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.152174;7
+234;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.173913;9
+233;66-75;male;San Jose;Christian;Married;Natural resources construction;Left;Bisexual;LOW;drink brand;tv show;soccer club;NO;0.076087;4
+232;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.119565;3
+231;56-65;female;Winthrop;Jewish;Single;Sales and office;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.076087;6
+230;46-55;male;San Jose;Jewish;Single;Professional;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.206522;6
+229;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.152174;4
+228;26-35;female;Boston;Buddhist;Married;Sales and office;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.173913;0
+227;56-65;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Center Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.152174;3
+226;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.163043;6
+225;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.130435;9
+224;76-85;female;Santa Barbara;Hindu;Single;Sales and office;Far Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.130435;7
+223;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.141304;7
+222;56-65;male;Cambridge;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.195652;7
+221;66-75;female;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;soccer club;NO;0.217391;7
+220;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.173913;7
+219;26-35;female;Winthrop;Other religions;Divorced;Service;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.282609;8
+218;66-75;female;Santa Barbara;Hindu;Widowed;Production transportation;Far Left;Heterosexual;LOW;music artist;entertainment;soccer club;NO;0.456522;7
+217;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.141304;9
+215;36-45;male;Boston;No religious affiliation;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.184783;0
+214;18-25;female;Winthrop;Muslim;Single;Professional;Center Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.130435;5
+213;26-35;female;Santa Barbara;Muslim;Married;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.217391;5
+212;26-35;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.141304;1
+211;76-85;female;Winthrop;Jewish;Widowed;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.228261;5
+210;26-35;female;Santa Barbara;Muslim;Married;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.043478;5
+209;36-45;female;Boston;No religious affiliation;Single;Student;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.130435;0
+208;36-45;female;Boston;No religious affiliation;Single;Sales and office;Left;Heterosexual;LOW;tv show;tv show;drink brand;NO;0.119565;0
+207;36-45;female;Boston;No religious affiliation;Married;Student;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.239130;0
+206;26-35;female;Santa Barbara;Hindu;Single;Student;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.184783;9
+205;36-45;female;Santa Barbara;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.304348;9
+204;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Center Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.228261;9
+203;46-55;male;Palo Alto;Buddhist;Married;Production transportation;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.315217;9
+202;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Center;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+201;66-75;female;Santa Barbara;Hindu;Widowed;Sales and office;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.163043;9
+200;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.206522;0
+199;18-25;female;Winthrop;Jewish;Married;Manager;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.239130;6
+198;18-25;female;San Jose;Other religions;Married;Professional;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.184783;1
+197;18-25;male;Cambridge;No religious affiliation;Divorced;Student;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.260870;0
+196;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.195652;0
+195;26-35;female;Boston;Christian;Divorced;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.369565;0
+194;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.184783;2
+193;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.206522;3
+192;36-45;female;Boston;Hindu;Single;Sales and office;Center;Homosexual;LOW;tv show;music artist;drink brand;NO;0.315217;0
+191;36-45;female;Boston;No religious affiliation;Single;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.423913;0
+190;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.228261;1
+189;18-25;male;Palo Alto;Christian;Single;Service;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.358696;1
+188;36-45;male;San Jose;Christian;Single;Sales and office;Far Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.391304;4
+187;56-65;male;Cambridge;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;drink brand;soccer club;NO;0.586957;7
+186;26-35;female;San Jose;Buddhist;Married;Sales and office;Right;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.086957;2
+185;56-65;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.108696;3
+184;36-45;female;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.141304;0
+183;66-75;male;Winthrop;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.108696;7
+182;66-75;male;Winthrop;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.086957;7
+181;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.130435;6
+180;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.141304;6
+179;36-45;male;Boston;Hindu;Single;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.065217;0
+178;36-45;female;Santa Barbara;No religious affiliation;Married;Student;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.130435;7
+177;46-55;female;Santa Barbara;Christian;Married;Student;Right;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.152174;7
+176;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.173913;0
+175;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.173913;7
+174;36-45;male;Santa Barbara;Buddhist;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.130435;7
+173;56-65;male;San Jose;Hindu;Married;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.282609;7
+172;36-45;female;Palo Alto;Hindu;Widowed;Service;Far Left;Asexual;LOW;entertainment;entertainment;music artist;NO;0.369565;7
+171;36-45;male;Boston;No religious affiliation;Single;Sales and office;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.130435;0
+170;56-65;female;Santa Barbara;Hindu;Divorced;Sales and office;Right;Bisexual;LOW;tv show;entertainment;entertainment;NO;0.141304;3
+169;56-65;male;Palo Alto;Hindu;Single;Production transportation;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.217391;9
+168;36-45;female;Winthrop;Christian;Married;Manager;Center Right;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.260870;6
+167;66-75;male;San Jose;Hindu;Single;Natural resources construction;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.152174;7
+166;66-75;male;Palo Alto;Hindu;Married;Natural resources construction;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.336957;7
+165;36-45;female;San Jose;Christian;Single;Student;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.250000;6
+164;26-35;female;Winthrop;Jewish;Married;Professional;Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.445652;6
+163;26-35;male;Cambridge;No religious affiliation;Married;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.152174;0
+162;18-25;female;Winthrop;Buddhist;Single;Natural resources construction;Left;Bisexual;LOW;tv show;entertainment;drink brand;NO;0.217391;9
+161;56-65;male;San Jose;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.304348;7
+160;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.271739;0
+159;56-65;male;Palo Alto;Hindu;Married;Production transportation;Far Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.293478;9
+158;56-65;male;San Jose;Hindu;Widowed;Production transportation;Far Left;Bisexual;LOW;music artist;tv show;soccer club;NO;0.315217;7
+157;46-55;male;San Jose;Hindu;Single;Natural resources construction;Center Left;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.347826;7
+156;66-75;male;San Jose;Hindu;Single;Service;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.597826;7
+155;26-35;male;San Jose;Christian;Single;Manager;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.206522;0
+154;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;entertainment;music artist;NO;0.141304;0
+153;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.195652;0
+152;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.250000;4
+151;18-25;female;Winthrop;Christian;Single;Sales and office;Right;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.239130;6
+150;18-25;female;Winthrop;Jewish;Single;Professional;Right;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.358696;6
+149;26-35;female;Santa Barbara;Hindu;Single;Student;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.336957;9
+148;56-65;male;San Jose;Hindu;Married;Natural resources construction;Center Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.195652;9
+147;36-45;female;Winthrop;Other religions;Married;Sales and office;Center;Homosexual;LOW;entertainment;entertainment;entertainment;NO;0.217391;0
+146;66-75;male;Santa Barbara;Hindu;Single;Natural resources construction;Center;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.239130;9
+145;36-45;female;Winthrop;No religious affiliation;Married;Service;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.293478;0
+144;18-25;female;San Jose;Christian;Married;Student;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.228261;4
+143;26-35;female;Santa Barbara;Hindu;Single;Student;Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.293478;9
+142;36-45;male;Palo Alto;Christian;Widowed;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.293478;1
+141;56-65;female;San Jose;Buddhist;Single;Natural resources construction;Left;Asexual;LOW;drink brand;tv show;drink brand;NO;0.576087;9
+140;36-45;female;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.130435;0
+139;56-65;male;Boston;No religious affiliation;Single;Service;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.173913;0
+138;36-45;male;Boston;No religious affiliation;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.250000;0
+137;36-45;male;San Jose;No religious affiliation;Single;Professional;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.369565;0
+136;56-65;female;Palo Alto;Hindu;Single;Student;Left;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.260870;9
+135;46-55;female;Winthrop;Other religions;Widowed;Service;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.315217;6
+134;36-45;male;Santa Barbara;No religious affiliation;Divorced;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.326087;0
+133;36-45;female;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.478261;0
+132;36-45;female;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;entertainment;drink brand;NO;0.228261;0
+131;36-45;male;Palo Alto;Muslim;Divorced;Production transportation;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.326087;0
+130;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.347826;0
+129;36-45;female;San Jose;Other religions;Widowed;Service;Far Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.565217;0
+128;18-25;female;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.369565;1
+127;18-25;female;Palo Alto;Hindu;Single;Student;Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.510870;9
+126;36-45;female;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.489130;0
+125;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.684783;7
+124;36-45;male;Boston;Hindu;Single;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.032609;0
+123;36-45;male;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.130435;0
+122;56-65;male;Boston;Other religions;Single;Service;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.097826;0
+121;26-35;male;Boston;No religious affiliation;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.119565;0
+120;36-45;male;Winthrop;Christian;Married;Sales and office;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.032609;8
+119;18-25;female;Cambridge;Buddhist;Widowed;Professional;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.195652;2
+118;66-75;female;Santa Barbara;Jewish;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.141304;4
+117;26-35;female;Boston;No religious affiliation;Single;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.239130;0
+116;26-35;female;Cambridge;Jewish;Single;Sales and office;Right;Heterosexual;LOW;music artist;music artist;entertainment;YES;0.141304;6
+115;66-75;female;Santa Barbara;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.119565;7
+114;66-75;female;Santa Barbara;Hindu;Married;Natural resources construction;Far Left;Heterosexual;LOW;music artist;entertainment;soccer club;NO;0.217391;7
+113;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.228261;0
+112;56-65;male;Winthrop;Hindu;Married;Sales and office;Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.173913;3
+111;18-25;female;Palo Alto;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.315217;2
+110;46-55;male;San Jose;No religious affiliation;Married;Student;Far Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.228261;0
+109;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.445652;0
+108;56-65;male;Palo Alto;Christian;Divorced;Production transportation;Center Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.130435;4
+107;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.173913;4
+106;66-75;female;Palo Alto;Jewish;Divorced;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.152174;4
+105;56-65;male;Palo Alto;Christian;Divorced;Production transportation;Center Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.206522;4
+104;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.130435;1
+103;26-35;female;Winthrop;Buddhist;Married;Student;Left;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.173913;2
+102;66-75;female;Santa Barbara;Jewish;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.206522;4
+101;66-75;female;Winthrop;Christian;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.326087;4
+100;18-25;female;Winthrop;Jewish;Single;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.152174;6
+99;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.282609;3
+98;66-75;female;Santa Barbara;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;music artist;music artist;soccer club;NO;0.239130;7
+97;56-65;female;Winthrop;Christian;Married;Professional;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.413043;6
+96;26-35;female;Cambridge;Buddhist;Widowed;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.260870;2
+95;26-35;female;Santa Barbara;Christian;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.304348;7
+94;66-75;male;Santa Barbara;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.271739;7
+93;66-75;male;Winthrop;Hindu;Single;Natural resources construction;Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.619565;7
+92;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.173913;0
+91;36-45;female;San Jose;Hindu;Divorced;Sales and office;Center;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.173913;0
+90;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.282609;0
+89;56-65;male;San Jose;Muslim;Divorced;Manager;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.206522;0
+88;26-35;female;Winthrop;Hindu;Married;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.271739;2
+87;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.217391;0
+86;36-45;male;Santa Barbara;No religious affiliation;Single;Sales and office;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.326087;0
+85;26-35;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Heterosexual;LOW;entertainment;tv show;soccer club;YES;0.184783;2
+84;36-45;male;Boston;Hindu;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.315217;0
+83;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.271739;0
+82;36-45;male;Palo Alto;Christian;Married;Student;Center Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.304348;1
+81;26-35;female;San Jose;Christian;Widowed;Service;Center Left;Homosexual;LOW;entertainment;entertainment;music artist;NO;0.260870;1
+80;66-75;female;Cambridge;Buddhist;Divorced;Sales and office;Center;Homosexual;LOW;drink brand;tv show;soccer club;NO;0.358696;2
+79;36-45;male;Palo Alto;Christian;Single;Professional;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.358696;1
+78;36-45;male;Palo Alto;Christian;Married;Student;Center Left;Homosexual;LOW;music artist;music artist;entertainment;NO;0.543478;1
+77;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.250000;0
+76;18-25;female;Winthrop;Christian;Single;Professional;Center Right;Heterosexual;LOW;drink brand;music artist;drink brand;NO;0.141304;6
+75;26-35;female;San Jose;Hindu;Widowed;Sales and office;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.239130;0
+74;18-25;female;Winthrop;Christian;Married;Manager;Center;Homosexual;LOW;drink brand;tv show;drink brand;NO;0.347826;6
+73;56-65;female;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.217391;3
+72;26-35;male;Cambridge;Buddhist;Single;Student;Center Right;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.260870;2
+71;26-35;male;Palo Alto;Hindu;Single;Student;Center Left;Bisexual;LOW;drink brand;tv show;soccer club;NO;0.391304;1
+70;36-45;female;Cambridge;No religious affiliation;Single;Sales and office;Left;Homosexual;LOW;drink brand;tv show;soccer club;NO;0.586957;0
+69;18-25;male;Palo Alto;Other religions;Single;Manager;Center Left;Bisexual;LOW;entertainment;entertainment;entertainment;NO;0.282609;1
+68;26-35;female;Cambridge;Muslim;Married;Sales and office;Center Left;Homosexual;LOW;entertainment;tv show;soccer club;YES;0.358696;2
+67;36-45;female;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.402174;0
+66;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.445652;0
+65;18-25;male;Palo Alto;Hindu;Single;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.315217;1
+64;26-35;male;Winthrop;Hindu;Married;Manager;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.576087;1
+63;76-85;male;San Jose;Christian;Single;Student;Right;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.500000;1
+62;18-25;male;Palo Alto;Muslim;Widowed;Student;Center Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.652174;1
+61;56-65;female;Santa Barbara;Hindu;Single;Production transportation;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.195652;7
+60;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.163043;4
+59;26-35;female;Winthrop;Christian;Widowed;Professional;Center Right;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.402174;6
+58;56-65;female;Santa Barbara;Muslim;Single;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.119565;7
+57;66-75;female;Boston;Christian;Married;Service;Center Left;Homosexual;LOW;drink brand;tv show;drink brand;NO;0.228261;4
+56;66-75;male;San Jose;Christian;Married;Production transportation;Center Right;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.195652;4
+55;76-85;female;Winthrop;Muslim;Widowed;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.402174;5
+54;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.163043;7
+53;36-45;male;Santa Barbara;Buddhist;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.315217;7
+52;56-65;male;Santa Barbara;Hindu;Widowed;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.163043;7
+51;56-65;female;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.250000;7
+50;66-75;female;Santa Barbara;Hindu;Widowed;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.195652;3
+49;56-65;male;Santa Barbara;Christian;Single;Sales and office;Far Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.260870;7
+48;26-35;male;Cambridge;Christian;Single;Production transportation;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.347826;1
+47;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.434783;7
+46;36-45;female;San Jose;Hindu;Married;Natural resources construction;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.184783;7
+45;46-55;female;San Jose;Sikh;Single;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.206522;7
+44;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.184783;0
+43;36-45;male;Boston;Buddhist;Married;Sales and office;Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.467391;0
+42;66-75;female;San Jose;Jewish;Married;Production transportation;Far Left;Heterosexual;LOW;entertainment;tv show;entertainment;NO;0.239130;4
+41;56-65;female;Santa Barbara;Hindu;Married;Professional;Left;Heterosexual;LOW;music artist;music artist;drink brand;NO;0.380435;7
+40;66-75;male;Winthrop;Jewish;Married;Natural resources construction;Far Left;Homosexual;LOW;drink brand;tv show;drink brand;NO;0.336957;4
+39;26-35;female;San Jose;Christian;Married;Production transportation;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.597826;4
+38;66-75;male;Santa Barbara;Sikh;Divorced;Natural resources construction;Left;Heterosexual;LOW;music artist;tv show;soccer club;NO;0.293478;7
+37;66-75;male;Palo Alto;Hindu;Single;Student;Far Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.467391;7
+36;56-65;female;San Jose;Other religions;Widowed;Production transportation;Far Left;Bisexual;LOW;tv show;drink brand;soccer club;NO;0.347826;7
+35;36-45;female;Santa Barbara;Other religions;Single;Natural resources construction;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.543478;7
+34;26-35;female;Cambridge;Buddhist;Married;Sales and office;Center;Heterosexual;LOW;entertainment;entertainment;drink brand;YES;0.271739;2
+33;66-75;male;Winthrop;Hindu;Single;Production transportation;Far Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.413043;7
+32;66-75;female;Santa Barbara;Jewish;Single;Natural resources construction;Far Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.554348;4
+31;56-65;male;Santa Barbara;Hindu;Single;Natural resources construction;Far Left;Heterosexual;LOW;drink brand;tv show;soccer club;NO;1.000000;7
+30;36-45;female;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.239130;0
+29;18-25;male;Winthrop;Jewish;Single;Sales and office;Center Right;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.228261;6
+28;26-35;female;Palo Alto;No religious affiliation;Married;Sales and office;Right;Bisexual;LOW;drink brand;tv show;soccer club;NO;0.326087;0
+27;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.250000;3
+26;36-45;female;Winthrop;Christian;Married;Student;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.347826;0
+25;36-45;female;Winthrop;Christian;Single;Production transportation;Center Right;Bisexual;LOW;entertainment;entertainment;music artist;NO;0.293478;4
+24;26-35;female;Santa Barbara;No religious affiliation;Married;Service;Left;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.521739;0
+23;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.217391;3
+22;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.282609;1
+21;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.336957;0
+20;66-75;male;Boston;No religious affiliation;Widowed;Manager;Center;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.456522;0
+19;56-65;male;Santa Barbara;Hindu;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.293478;3
+18;26-35;female;Santa Barbara;Muslim;Single;Professional;Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.434783;5
+17;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.489130;0
+16;76-85;female;Winthrop;Muslim;Widowed;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.663043;5
+15;36-45;female;Cambridge;Jewish;Single;Production transportation;Center Right;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.260870;4
+14;26-35;male;Cambridge;Other religions;Widowed;Sales and office;Left;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.380435;0
+13;36-45;male;Winthrop;No religious affiliation;Married;Manager;Center Left;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.391304;0
+12;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.543478;0
+11;26-35;male;Cambridge;Jewish;Single;Manager;Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.217391;3
+10;36-45;male;Santa Barbara;Other religions;Divorced;Sales and office;Left;Heterosexual;LOW;music artist;music artist;entertainment;NO;0.554348;2
+9;46-55;female;Santa Barbara;Buddhist;Married;Natural resources construction;Right;Heterosexual;LOW;tv show;entertainment;entertainment;NO;0.423913;3
+8;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.684783;0
+7;18-25;female;Winthrop;Buddhist;Divorced;Sales and office;Right;Heterosexual;LOW;entertainment;tv show;soccer club;NO;0.282609;2
+6;26-35;female;Palo Alto;Hindu;Divorced;Student;Center Left;Heterosexual;LOW;drink brand;tv show;drink brand;NO;0.521739;1
+5;36-45;female;Cambridge;Christian;Married;Professional;Center;Heterosexual;LOW;tv show;drink brand;soccer club;NO;0.434783;0
+4;26-35;female;Boston;Buddhist;Married;Professional;Center Right;Heterosexual;LOW;drink brand;tv show;soccer club;NO;0.673913;0
+3;18-25;male;Boston;Christian;Single;Natural resources construction;Center;Heterosexual;LOW;drink brand;drink brand;entertainment;NO;0.445652;1
+2;36-45;female;San Jose;Hindu;Widowed;Manager;Right;Heterosexual;LOW;entertainment;entertainment;entertainment;NO;0.586957;2
+1;18-25;male;Palo Alto;Christian;Single;Student;Center Left;Heterosexual;LOW;entertainment;entertainment;music artist;NO;0.597826;1
+0;36-45;male;Boston;No religious affiliation;Married;Sales and office;Center;Heterosexual;LOW;tv show;music artist;drink brand;NO;0.978261;0
