@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <inputFiles>
+        <inputFile1>C:\Users\chia\eclipse-workspace\TFG\resources\Input_files\graph_edges.csv</inputFile1>
+        <inputFile2>C:\Users\chia\eclipse-workspace\TFG\resources\Input_files\graph_edges_communities.csv</inputFile2>
+    </inputFiles>
+    <outputFiles>
+        <outFile>./resources/Output_files/1kby30k_out.csv</outFile>
+        <outgFile>./resources/Output_files/1kby30k_outg.csv</outgFile>
+        <out1File>./resources/Output_files/1kby30k_out1.csv</out1File>
+        <out2File>./resources/Output_files/1kby30k_out2.csv</out2File>
+    </outputFiles>
+    <vars>
+        <numCommunities>10</numCommunities>
+        <seedPercentage>11.0</seedPercentage>
+        <randomness>0</randomness>
+    </vars>
+    <attribute name="Age">
+        <description>The age range in years</description>
+        <param>
+            <value>18-25</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>26-35</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>36-45</value>
+            <frequency>0.17</frequency>
+        </param>
+        <param>
+            <value>46-55</value>
+            <frequency>0.09</frequency>
+        </param>
+        <param>
+            <value>56-65</value>
+            <frequency>0.08</frequency>
+        </param>
+        <param>
+            <value>66-75</value>
+            <frequency>0.08</frequency>
+        </param>
+        <param>
+            <value>76-85</value>
+            <frequency>0.08</frequency>
+        </param>
+    </attribute>
+    <attribute name="Gender">
+        <description>Male or Female</description>
+        <param>
+            <value>male</value>
+            <frequency>0.5</frequency>
+        </param>
+        <param>
+            <value>female</value>
+            <frequency>0.5</frequency>
+        </param>
+    </attribute>
+    <attribute name="Residence">
+        <description>The city or location where the user lives</description>
+        <param>
+            <value>Palo Alto</value>
+            <frequency>0.16</frequency>
+        </param>
+        <param>
+            <value>Santa Barbara</value>
+            <frequency>0.16</frequency>
+        </param>
+        <param>
+            <value>Winthrop</value>
+            <frequency>0.17</frequency>
+        </param>
+        <param>
+            <value>Boston</value>
+            <frequency>0.17</frequency>
+        </param>
+        <param>
+            <value>Cambridge</value>
+            <frequency>0.17</frequency>
+        </param>
+        <param>
+            <value>San Jose</value>
+            <frequency>0.17</frequency>
+        </param>
+    </attribute>
+    <attribute name="Religion">
+        <description>The religion a user follows. It can also be the case that the user doesn't follow any religion</description>
+        <param>
+            <value>Buddhist</value>
+            <frequency>0.1</frequency>
+        </param>
+        <param>
+            <value>Christian</value>
+            <frequency>0.3</frequency>
+        </param>
+        <param>
+            <value>Hindu</value>
+            <frequency>0.13</frequency>
+        </param>
+        <param>
+            <value>Jewish</value>
+            <frequency>0.1</frequency>
+        </param>
+        <param>
+            <value>Muslim</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>Sikh</value>
+            <frequency>0.0</frequency>
+        </param>
+        <param>
+            <value>Traditional Spirituality</value>
+            <frequency>0.0</frequency>
+        </param>
+        <param>
+            <value>Other religions</value>
+            <frequency>0.1</frequency>
+        </param>
+        <param>
+            <value>No religious affiliation</value>
+            <frequency>0.02</frequency>
+        </param>
+    </attribute>
+    <attribute name="Marital Status">
+        <description>A person can be single, in a relationship, married, etc.</description>
+        <param>
+            <value>Single</value>
+            <frequency>0.3</frequency>
+        </param>
+        <param>
+            <value>Married</value>
+            <frequency>0.5</frequency>
+        </param>
+        <param>
+            <value>Divorced</value>
+            <frequency>0.1</frequency>
+        </param>
+        <param>
+            <value>Widowed</value>
+            <frequency>0.1</frequency>
+        </param>
+    </attribute>
+    <attribute name="Profession">
+        <description>The profession/job a person habitually does</description>
+        <param>
+            <value>Manager</value>
+            <frequency>0.12</frequency>
+        </param>
+        <param>
+            <value>Professional</value>
+            <frequency>0.17</frequency>
+        </param>
+        <param>
+            <value>Service</value>
+            <frequency>0.14</frequency>
+        </param>
+        <param>
+            <value>Sales and office</value>
+            <frequency>0.18</frequency>
+        </param>
+        <param>
+            <value>Natural resources construction</value>
+            <frequency>0.07</frequency>
+        </param>
+        <param>
+            <value>Production transportation</value>
+            <frequency>0.09</frequency>
+        </param>
+        <param>
+            <value>Student</value>
+            <frequency>0.23</frequency>
+        </param>
+    </attribute>
+    <attribute name="Political Orientation">
+        <description>The political orientation of a person</description>
+        <param>
+            <value>Far Left</value>
+            <frequency>0.09</frequency>
+        </param>
+        <param>
+            <value>Left</value>
+            <frequency>0.35</frequency>
+        </param>
+        <param>
+            <value>Center Left</value>
+            <frequency>0.18</frequency>
+        </param>
+        <param>
+            <value>Center</value>
+            <frequency>0.18</frequency>
+        </param>
+        <param>
+            <value>Center Right</value>
+            <frequency>0.1</frequency>
+        </param>
+        <param>
+            <value>Right</value>
+            <frequency>0.09</frequency>
+        </param>
+        <param>
+            <value>Far Right</value>
+            <frequency>0.01</frequency>
+        </param>
+    </attribute>
+    <attribute name="Sexual Orientation">
+        <description>The sexual orientation of a person</description>
+        <param>
+            <value>Asexual</value>
+            <frequency>0.01</frequency>
+        </param>
+        <param>
+            <value>Bisexual</value>
+            <frequency>0.02</frequency>
+        </param>
+        <param>
+            <value>Heterosexual</value>
+            <frequency>0.95</frequency>
+        </param>
+        <param>
+            <value>Homosexual</value>
+            <frequency>0.02</frequency>
+        </param>
+    </attribute>
+    <attribute name="Like 1">
+        <description>A like of a person</description>
+        <param>
+            <value>entertainment</value>
+            <frequency>0.35</frequency>
+        </param>
+        <param>
+            <value>music artist</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>drink brand</value>
+            <frequency>0.2</frequency>
+        </param>
+        <param>
+            <value>tv show</value>
+            <frequency>0.2</frequency>
+        </param>
+    </attribute>
+    <attribute name="Like 2">
+        <description>Another like of a person</description>
+        <param>
+            <value>entertainment</value>
+            <frequency>0.35</frequency>
+        </param>
+        <param>
+            <value>music artist</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>tv show</value>
+            <frequency>0.2</frequency>
+        </param>
+        <param>
+            <value>drink brand</value>
+            <frequency>0.2</frequency>
+        </param>
+    </attribute>
+    <attribute name="Like 3">
+        <description>Another like of a person</description>
+        <param>
+            <value>music artist</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>entertainment</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>drink brand</value>
+            <frequency>0.25</frequency>
+        </param>
+        <param>
+            <value>soccer club</value>
+            <frequency>0.25</frequency>
+        </param>
+    </attribute>
+    <profile id="0">
+        <params>2,0,3,8,1,3,3,2,3,1,2</params>
+    </profile>
+    <profile id="1">
+        <params>1,1,4,0,2,3,3,2,0,2,3</params>
+    </profile>
+    <profile id="2">
+        <params>0,0,0,1,0,6,2,2,2,3,1</params>
+    </profile>
+    <profile id="3">
+        <params>0,1,2,4,0,1,4,2,1,2,3</params>
+    </profile>
+    <profile id="4">
+        <params>4,0,1,2,3,4,5,2,3,0,1</params>
+    </profile>
+    <profile id="5">
+        <params>5,1,5,3,1,5,0,2,0,2,1</params>
+    </profile>
+    <profile id="6">
+        <params>0,1,2,1,0,1,4,2,0,1,3</params>
+    </profile>
+    <profile id="7">
+        <params>0,1,2,3,0,1,4,2,3,1,2</params>
+    </profile>
+    <profile id="8">
+        <params>4,0,1,2,3,4,1,2,3,0,2</params>
+    </profile>
+    <profile id="9">
+        <params>4,0,1,2,3,4,0,2,1,2,3</params>
+    </profile>
+    <profileCommunityAssaignment>0,2,1,4,5,3,7,9,6,8</profileCommunityAssaignment>
+</config>
