@@ -1,4 +1,4 @@
-// Copyright (C) 2018  David F. Nettleton (david.nettleton@upf.edu)
+// Copyright (C) 2018-2021  David F. Nettleton (david.nettleton@upf.edu)
 // License: GNU GENERAL PUBLIC LICENSE v3.0   See LICENSE for the full license.
 
 package genDataNOapplication.Dijkstra;
