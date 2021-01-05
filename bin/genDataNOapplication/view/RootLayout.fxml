@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane layoutX="-0.5" layoutY="-0.5" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="715.0" prefWidth="1400.0" stylesheets="@../../../resources/bootstrap3.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="genDataNOapplication.view.RootLayoutController">
+   <top>
+      <MenuBar prefHeight="42.0" prefWidth="1307.0" BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#handleImport" text="Import Config ..." />
+                  <MenuItem mnemonicParsing="false" onAction="#handleExport" text="Export Config ..." />
+              <MenuItem mnemonicParsing="false" onAction="#handleExit" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Options">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#handleSwitchHome" text="Home" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchGraphGenerator" text="Generate Graph" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchInputFiles" text="Input Files" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchUserAttributes" text="User Attributes" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchProfileSettings" text="Profile Seed Settings" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchCommunities" text="Communities &amp; Profiles" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchOutputFiles" text="Output Files" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchAdvancedSettings" text="Advanced Settings" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchRun" text="Generate Data" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleSwitchResults" text="Results" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+              <MenuItem fx:id="aboutButton" mnemonicParsing="false" onAction="#handleDocumentation" text="Documentation" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleAbout" text="About" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleLicense" text="License" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+</BorderPane>

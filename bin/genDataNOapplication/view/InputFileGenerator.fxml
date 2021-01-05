@@ -3,79 +3,78 @@
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.ButtonBar?>
 <?import javafx.scene.control.Label?>
-<?import javafx.scene.control.RadioButton?>
-<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
 <?import javafx.scene.control.TitledPane?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
-<?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="600.0" prefWidth="1340.0" stylesheets="@../../../resources/bootstrap3.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="genDataNOapplication.view.AdvancedSettingsController">
+<AnchorPane prefHeight="600.0" prefWidth="1340.0" stylesheets="@../../../resources/bootstrap3.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="genDataNOapplication.view.InputFileGeneratorController">
    <children>
-      <Label layoutX="518.0" layoutY="72.0" prefHeight="53.0" prefWidth="445.0" text="Advanced settings">
+      <Label layoutX="518.0" layoutY="72.0" prefHeight="53.0" prefWidth="445.0" text="Graph structure generator">
          <font>
             <Font size="36.0" />
          </font>
       </Label>
-      <Button fx:id="resetButton" layoutX="930.0" layoutY="502.0" mnemonicParsing="false" onAction="#handleResetButton" styleClass="danger" text="Reset to Default">
+      <Label layoutX="479.0" layoutY="117.0" text="Generate below the graph structure and community labels as input to the program. " />
+      <TitledPane collapsible="false" contentDisplay="RIGHT" graphicTextGap="10.0" layoutX="333.0" layoutY="167.0" prefHeight="226.0" prefWidth="709.0" styleClass="info" text="Graph generator (RMAT)">
+         <content>
+            <Pane prefHeight="164.0" prefWidth="707.0">
+               <children>
+                  <Button fx:id="RMAT_generate_button" layoutX="17.0" layoutY="134.0" mnemonicParsing="false" onAction="#handleRMATGeneratorButton" prefHeight="32.0" prefWidth="315.0" text="Generate graph file" />
+                  <TextArea layoutX="52.0" layoutY="205.0" prefHeight="53.0" prefWidth="198.0" />
+                  <TextField fx:id="RMAT_parameter_a" layoutX="181.0" layoutY="25.0" prefHeight="25.0" prefWidth="150.0" promptText="Select graph edges file" text="0.45">
+
+                  </TextField>
+                  <Label layoutX="181.0" layoutY="8.0" prefHeight="17.0" prefWidth="141.0" text="Parameter a" />
+                  <TextField fx:id="RMAT_parameter_c" layoutX="181.0" layoutY="86.0" prefHeight="25.0" prefWidth="150.0" promptText="Select graph edges file" text="0.15">
+
+                  </TextField>
+                  <Label layoutX="181.0" layoutY="69.0" prefHeight="17.0" prefWidth="71.0" text="Parameter c" />
+                  <TextField fx:id="RMAT_parameter_b" layoutX="346.0" layoutY="25.0" prefHeight="25.0" prefWidth="150.0" promptText="Select graph edges file" text="0.15">
+
+                  </TextField>
+                  <Label layoutX="346.0" layoutY="8.0" prefHeight="17.0" prefWidth="71.0" text="Parameter b" />
+                  <TextField fx:id="RMAT_parameter_d" layoutX="346.0" layoutY="86.0" prefHeight="25.0" prefWidth="150.0" promptText="Select graph edges file" text="0.25">
+                  </TextField>
+                  <Label layoutX="346.0" layoutY="69.0" prefHeight="17.0" prefWidth="71.0" text="Parameter d" />
+                  <TextField fx:id="RMAT_parameter_nNodes" layoutX="17.0" layoutY="25.0" prefHeight="25.0" prefWidth="150.0" promptText="Select graph edges file" text="1000" />
+                  <Label layoutX="17.0" layoutY="8.0" prefHeight="17.0" prefWidth="141.0" text="Number of nodes" />
+                  <TextField fx:id="RMAT_parameter_nEdges" layoutX="17.0" layoutY="86.0" prefHeight="25.0" prefWidth="150.0" promptText="Select graph edges file" text="20000" />
+                  <Label layoutX="17.0" layoutY="69.0" prefHeight="17.0" prefWidth="112.0" text="Number of edges" />
+                  <Label alignment="TOP_LEFT" layoutX="526.0" layoutY="26.0" prefHeight="104.0" prefWidth="167.0" text="Parameters conditions:&#10;a + b + c + d ~= 1&#10;a &gt; b&#10;a &gt; c&#10;a &gt; d" wrapText="true" />
+                  <Button fx:id="RMAT_helpButton" layoutX="622.0" layoutY="134.0" mnemonicParsing="false" onAction="#handleRMAT_helpButton" styleClass="info" text="Help">
+                     <graphic>
+                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../resources/icons/outline_help_outline_black_24dp.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children>
+            </Pane>
+         </content>
          <graphic>
             <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../resources/icons/outline_restore_white_24dp.png" />
+                  <Image url="@../../../resources/icons/outline_device_hub_black_24dptitle.png" />
                </image>
             </ImageView>
-         </graphic></Button>
-      <Text layoutX="479.0" layoutY="129.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Here you can customize advanced parameters. This is for advanced users only, if you have any doubts leave it with the default configuration." wrappingWidth="330.0000019669533" />
-      <TitledPane collapsible="false" layoutX="489.0" layoutY="202.0" prefHeight="394.0" prefWidth="306.0" styleClass="info" text="Thresholds">
-         <content>
-            <Pane prefHeight="200.0" prefWidth="200.0">
-               <children>
-                  <Text layoutX="9.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The distance threshold depends on how the distance is calculated and may differ from attribute to attribute. It indicates the distance of the two closest categories" textAlignment="JUSTIFY" wrappingWidth="285.9999870657921" />
-                  <Button fx:id="distanceThresholdButton" disable="true" layoutX="59.0" layoutY="100.0" mnemonicParsing="false" styleClass="success" text="Edit Distance Thresholds">
-                     <graphic>
-                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
-                           <image>
-                              <Image url="@../../../resources/icons/baseline_edit_white_24dp.png" />
-                           </image>
-                        </ImageView>
-                     </graphic></Button>
-                  <Text layoutX="14.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Here you can edit the assignment thresholds in AssignNeighbours. In this routine each attribute has a specific random threshold." wrappingWidth="283.4296875" />
-                  <Button disable="true" layoutX="42.0" layoutY="265.0" mnemonicParsing="false" styleClass="success" text="Edit Assaignment Thresholds">
-                     <graphic>
-                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
-                           <image>
-                              <Image url="@../../../resources/icons/baseline_edit_white_24dp.png" />
-                           </image>
-                        </ImageView>
-                     </graphic></Button>
-               </children>
-            </Pane>
-         </content>
+         </graphic>
       </TitledPane>
-      <TitledPane collapsible="false" layoutX="845.0" layoutY="202.0" prefHeight="222.0" prefWidth="306.0" styleClass="info" text="Randomness">
-         <content>
-            <Pane prefHeight="190.0" prefWidth="304.0">
-               <children>
-                  <Text layoutX="9.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The settings here affect the last routine: AssignUnassigned. By default modal vaules are assigned 90% of the time, and random values are assigned 10% of the time. " textAlignment="JUSTIFY" wrappingWidth="286.9999870657921" />
-                  <Label layoutX="11.0" layoutY="121.0" text="Random Assaignment Ratio:" />
-                  <RadioButton fx:id="lowRandomness" layoutX="21.0" layoutY="152.0" mnemonicParsing="false" text="Low" />
-                  <RadioButton fx:id="mediumRandomness" layoutX="114.0" layoutY="152.0" mnemonicParsing="false" text="Medium" />
-                  <RadioButton fx:id="highRandomness" layoutX="220.0" layoutY="152.0" mnemonicParsing="false" text="High" />
-               </children>
-            </Pane>
-         </content>
-      </TitledPane>
+      <Label layoutX="480.0" layoutY="134.0" text="You can use the file explorer to locate the files on your local computer." />
       <ImageView fitHeight="38.0" fitWidth="38.0" layoutX="464.0" layoutY="78.0" opacity="0.72" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../../resources/icons/outline_settings_black_24dptitle.png" />
+            <Image url="@../../../resources/icons/outline_file_copy_black_24dpTitle.png" />
          </image>
       </ImageView>
-      <ButtonBar layoutX="-20.0" layoutY="22.0" prefHeight="40.0" prefWidth="1400.0" styleClass="bar">
+      <ButtonBar layoutX="-20.0" layoutY="22.0" prefHeight="40.0" prefWidth="1400.0">
          <buttons>
-            <Button fx:id="inputGeneratorButtonTab" mnemonicParsing="false" onAction="#handleInputGeneratorButtonTab" styleClass="first" text="Generate Graph">
+            <Button fx:id="inputGeneratorButtonTab" mnemonicParsing="false" prefHeight="125.0" styleClass="first" text="Generate Graph">
                <graphic>
                   <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
                      <image>
@@ -129,7 +128,7 @@
                   </ImageView>
                </graphic>
             </Button>
-            <Button fx:id="advancedButtonTab" disable="true" mnemonicParsing="false" styleClass="middle" text="Advanced">
+            <Button fx:id="advancedButtonTab" mnemonicParsing="false" onAction="#handleAdvancedButtonTab" styleClass="middle" text="Advanced">
                <graphic>
                   <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
                      <image>
@@ -158,14 +157,15 @@
             </Button>
          </buttons>
       </ButtonBar>
-      <TitledPane collapsible="false" layoutX="134.0" layoutY="202.0" prefHeight="394.0" prefWidth="306.0" styleClass="info" text="Profile Seeds">
+      <TitledPane collapsible="false" contentDisplay="RIGHT" graphicTextGap="10.0" layoutX="333.0" layoutY="410.0" prefHeight="145.0" prefWidth="709.0" styleClass="info" text="Community identifier (Louvain)">
          <content>
-            <Pane prefHeight="200.0" prefWidth="200.0">
+            <Pane prefHeight="156.0" prefWidth="707.0">
                <children>
-                  <Text layoutX="4.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="By default each community has a seed profile. A seed profile is a set of defined user characteristics that are used as a starting point for the algorithm to start generating the other users' characteristics in the community. " textAlignment="JUSTIFY" wrappingWidth="295.00000178813934" />
-                  <Label layoutX="27.0" layoutY="232.0" text="Seeds percentage" />
-                  <Spinner fx:id="seedSizeSpinner" layoutX="141.0" layoutY="225.0" prefHeight="30.0" prefWidth="105.0" />
-                  <Button fx:id="helpButton" layoutX="213.0" layoutY="295.0" mnemonicParsing="false" onAction="#handleHelpButton" styleClass="info" text="Help">
+                  <TextField fx:id="Louvain_inputFile_path" layoutX="108.0" layoutY="15.0" prefHeight="25.0" prefWidth="390.0" promptText="Select graph edges file">
+                  </TextField>
+                  <Button fx:id="Louvain_inputFile_browser_button" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#handleBrowseButton" prefHeight="32.0" prefWidth="83.0" text="Browse" />
+                  <Button fx:id="Louvain_generate_button" layoutX="14.0" layoutY="53.0" mnemonicParsing="false" onAction="#handleComunitiesFileGeneratorButton" prefHeight="32.0" prefWidth="315.0" text="Generate communities file" />
+                  <Button fx:id="Louvain_helpButton" layoutX="622.0" layoutY="53.0" mnemonicParsing="false" onAction="#handleLouvain_helpButton" styleClass="info" text="Help">
                      <graphic>
                         <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
                            <image>
@@ -174,10 +174,16 @@
                         </ImageView>
                      </graphic>
                   </Button>
-                  <Text layoutX="4.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The seeds percentage corresponds to the percentage of users that awill be seeds from the total amount of users in the communities. Ideally the percentage is around 11%.  The range allowed is from 5% to 20 %. Higher percentages might make the simulation never finish given it wont find enough candidates to fill the amount seeds given." textAlignment="JUSTIFY" wrappingWidth="295.00000178813934" />
                </children>
             </Pane>
          </content>
+         <graphic>
+            <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/baseline_dashboard_black_24dptitle.png" />
+               </image>
+            </ImageView>
+         </graphic>
       </TitledPane>
    </children>
 </AnchorPane>

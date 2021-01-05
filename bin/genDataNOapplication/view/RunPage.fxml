@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1340.0" stylesheets="@../../../resources/bootstrap3.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="genDataNOapplication.view.RunPageController">
+   <children>
+      <Button fx:id="runButton" defaultButton="true" layoutX="570.0" layoutY="308.0" mnemonicParsing="false" onAction="#handleStartApplicationButton" prefHeight="40.0" prefWidth="184.0" styleClass="primary" text="Generate data">
+         <graphic>
+            <ImageView fitHeight="23.0" fitWidth="23.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/outline_play_circle_filled_white_white_24dp.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <font>
+            <Font size="18.0" />
+         </font></Button>
+      <ProgressBar fx:id="progressIndicator" layoutX="413.0" layoutY="406.0" prefWidth="200.0" progress="0.0" visible="false" />
+      <Button fx:id="cancelButton" cancelButton="true" layoutX="477.0" layoutY="446.0" mnemonicParsing="false" onAction="#handleCancelButton" styleClass="danger" text="Cancel" visible="false">
+         <graphic>
+            <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/outline_stop_white_24dp.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <ButtonBar fx:id="buttonsBar" layoutX="-20.0" layoutY="22.0" prefHeight="40.0" prefWidth="1400.0">
+         <buttons>
+            <Button fx:id="inputGeneratorButtonTab" mnemonicParsing="false" onAction="#handleInputGeneratorButtonTab" styleClass="first" text="Generate Graph">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_dashboard_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="inputFilesButtonTab" mnemonicParsing="false" onAction="#handleInputFilesButtonTab" styleClass="first" text="Input Files">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/download-multiple.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="userParametersButtonTab" mnemonicParsing="false" onAction="#handleUserParametersButtonTab" styleClass="middle" text="User Attributes">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_group_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="profilesButtonTab" mnemonicParsing="false" onAction="#handleProfilesButtonTab" styleClass="middle" text="Profile Seeds">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_dashboard_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="communitiesButtonTab" mnemonicParsing="false" onAction="#handleCommunitiesButtonTab" styleClass="middle" text="Communities &amp; Profiles">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_device_hub_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="outputFilesButtonTab" graphicTextGap="1.0" mnemonicParsing="false" onAction="#handleOutputFilesButtonTab" styleClass="middle" text="Output Files">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/upload-multiple.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="advancedButtonTab" mnemonicParsing="false" onAction="#handleAdvancedButtonTab" styleClass="middle" text="Advanced">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_settings_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button disable="true" mnemonicParsing="false" styleClass="last" text="Generate Data">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/round_play_arrow_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="statisticsButton" mnemonicParsing="false" onAction="#handleStatisticsButton" prefHeight="32.0" prefWidth="92.0" text="Results">
+               <graphic>
+                  <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_equalizer_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </buttons>
+      </ButtonBar>
+      <Label layoutX="518.0" layoutY="72.0" prefHeight="53.0" prefWidth="445.0" text="Generate data">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="38.0" fitWidth="38.0" layoutX="464.0" layoutY="78.0" opacity="0.72" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../resources/icons/baseline_play_circle_outline_black_24dp.png" />
+         </image>
+      </ImageView>
+      <Text layoutX="479.0" layoutY="135.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Click on the &quot;Generate data&quot; button to generate the social network graph data. Once the program finishes the execution you can go to the results tab to see the statistics and the output files." wrappingWidth="420.322265625" />
+      <Button fx:id="homePageButton" layoutX="182.0" layoutY="403.0" mnemonicParsing="false" onAction="#handleMainPageButton" text="Return to home Page" visible="false">
+         <graphic>
+            <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/baseline_home_black_24dpp.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+      <Button fx:id="openButton" layoutX="430.0" layoutY="471.0" mnemonicParsing="false" onAction="#handleOpenButton" styleClass="success" text="Open Files Directory" visible="false">
+         <graphic>
+            <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/baseline_folder_open_white_24dp.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>
