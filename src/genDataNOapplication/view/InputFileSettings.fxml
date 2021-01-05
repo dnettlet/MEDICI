@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1340.0" stylesheets="@../../../resources/bootstrap3.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="genDataNOapplication.view.InputFileSettingsController">
+   <children>
+      <Label layoutX="518.0" layoutY="72.0" text="Input file settings">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Label layoutX="479.0" layoutY="117.0" text="Specify Below the names for the Input files of the program. " />
+      <TitledPane alignment="CENTER" collapsible="false" contentDisplay="RIGHT" graphicTextGap="10.0" layoutX="387.0" layoutY="167.0" prefHeight="274.0" prefWidth="491.0" styleClass="info" text="Input Files" textAlignment="CENTER">
+         <content>
+            <Pane prefHeight="232.0" prefWidth="436.0">
+               <children>
+                  <TextField fx:id="inputFile1Name" layoutX="39.0" layoutY="61.0" prefHeight="25.0" prefWidth="228.0" promptText="Select Input File 1">
+                     <tooltip>
+                        <Tooltip text="Aixo es un tooltip de prova" />
+                     </tooltip></TextField>
+                  <Label layoutX="39.0" layoutY="35.0" text="Input File 1 - Graph structure" />
+                  <TextField fx:id="inputFile2Name" layoutX="39.0" layoutY="166.0" prefHeight="25.0" prefWidth="228.0" promptText="Select input File 2" />
+                  <Label layoutX="39.0" layoutY="138.0" text="Input File 2 - Community labels" />
+                  <Button fx:id="browseInFile1Button" layoutX="284.0" layoutY="61.0" mnemonicParsing="false" onAction="#handleInFile1BrowseButton" text="Browse..." />
+                  <Button fx:id="browseInFile2Button" layoutX="284.0" layoutY="166.0" mnemonicParsing="false" onAction="#handleInFile2BrowseButton" text="Browse..." />
+                  <Button fx:id="helpButton" layoutX="410.0" layoutY="180.0" mnemonicParsing="false" onAction="#handleHelpButton" styleClass="info" text="Help">
+                     <graphic>
+                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../resources/icons/outline_help_outline_black_24dp.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+               </children>
+            </Pane>
+         </content>
+         <graphic>
+            <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/download-multiple.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </TitledPane>
+      <Button fx:id="resetButton" layoutX="908.0" layoutY="230.0" mnemonicParsing="false" onAction="#handleResetButton" styleClass="danger" text="Reset to Default">
+         <graphic>
+            <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/outline_restore_white_24dp.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Label layoutX="479.0" layoutY="134.0" text="You can browse through your computer to find locations." />
+      <ImageView fitHeight="38.0" fitWidth="38.0" layoutX="464.0" layoutY="78.0" opacity="0.72" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../resources/icons/outline_file_copy_black_24dpTitle.png" />
+         </image>
+      </ImageView>
+      <ButtonBar layoutX="-20.0" layoutY="22.0" prefHeight="40.0" prefWidth="1400.0">
+         <buttons>
+            <Button fx:id="inputGeneratorButtonTab" mnemonicParsing="false" onAction="#handleInputGeneratorButtonTab" styleClass="first" text="Generate Graph">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_dashboard_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="inputFilesButtonTab" disable="true" mnemonicParsing="false" styleClass="first" text="Input Files">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/download-multiple.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="userParametersButtonTab" mnemonicParsing="false" onAction="#handleUserParametersButtonTab" styleClass="middle" text="User Attributes">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_group_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="profilesButtonTab" mnemonicParsing="false" onAction="#handleProfilesButtonTab" styleClass="middle" text="Profile Seeds">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_dashboard_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="communitiesButtonTab" mnemonicParsing="false" onAction="#handleCommunitiesButtonTab" styleClass="middle" text="Communities &amp; Profiles">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_device_hub_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="outputFilesButtonTab" graphicTextGap="1.0" mnemonicParsing="false" onAction="#handleOutputFilesButtonTab" styleClass="middle" text="Output Files">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/upload-multiple.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="advancedButtonTab" mnemonicParsing="false" onAction="#handleAdvancedButtonTab" styleClass="middle" text="Advanced">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_settings_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="runButtonTab" mnemonicParsing="false" onAction="#handleRunButtonTab" styleClass="last" text="Generate Data">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/round_play_arrow_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="statisticsButton" mnemonicParsing="false" onAction="#handleStatisticsButton" prefHeight="32.0" prefWidth="92.0" text="Results">
+               <graphic>
+                  <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_equalizer_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </buttons>
+      </ButtonBar>
+      <Button fx:id="importConfigurationButton" layoutX="908.0" layoutY="284.0" mnemonicParsing="false" onAction="#handleImportConfigurationButton" styleClass="success" text="Import Config from File">
+         <graphic>
+            <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/outline_save_black_24dp.png" />
+               </image>
+            </ImageView>
+         </graphic>
+      </Button>
+   </children>
+</AnchorPane>

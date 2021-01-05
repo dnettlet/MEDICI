@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="600.0" prefWidth="1340.0" stylesheets="@../../../resources/bootstrap3.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="genDataNOapplication.view.AdvancedSettingsController">
+   <children>
+      <Label layoutX="518.0" layoutY="72.0" prefHeight="53.0" prefWidth="445.0" text="Advanced settings">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Label>
+      <Button fx:id="resetButton" layoutX="930.0" layoutY="502.0" mnemonicParsing="false" onAction="#handleResetButton" styleClass="danger" text="Reset to Default">
+         <graphic>
+            <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../resources/icons/outline_restore_white_24dp.png" />
+               </image>
+            </ImageView>
+         </graphic></Button>
+      <Text layoutX="479.0" layoutY="129.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Here you can customize advanced parameters. This is for advanced users only, if you have any doubts leave it with the default configuration." wrappingWidth="330.0000019669533" />
+      <TitledPane collapsible="false" layoutX="489.0" layoutY="202.0" prefHeight="394.0" prefWidth="306.0" styleClass="info" text="Thresholds">
+         <content>
+            <Pane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Text layoutX="9.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The distance threshold depends on how the distance is calculated and may differ from attribute to attribute. It indicates the distance of the two closest categories" textAlignment="JUSTIFY" wrappingWidth="285.9999870657921" />
+                  <Button fx:id="distanceThresholdButton" disable="true" layoutX="59.0" layoutY="100.0" mnemonicParsing="false" styleClass="success" text="Edit Distance Thresholds">
+                     <graphic>
+                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../resources/icons/baseline_edit_white_24dp.png" />
+                           </image>
+                        </ImageView>
+                     </graphic></Button>
+                  <Text layoutX="14.0" layoutY="176.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Here you can edit the assignment thresholds in AssignNeighbours. In this routine each attribute has a specific random threshold." wrappingWidth="283.4296875" />
+                  <Button disable="true" layoutX="42.0" layoutY="265.0" mnemonicParsing="false" styleClass="success" text="Edit Assaignment Thresholds">
+                     <graphic>
+                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../resources/icons/baseline_edit_white_24dp.png" />
+                           </image>
+                        </ImageView>
+                     </graphic></Button>
+               </children>
+            </Pane>
+         </content>
+      </TitledPane>
+      <TitledPane collapsible="false" layoutX="845.0" layoutY="202.0" prefHeight="222.0" prefWidth="306.0" styleClass="info" text="Randomness">
+         <content>
+            <Pane prefHeight="190.0" prefWidth="304.0">
+               <children>
+                  <Text layoutX="9.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The settings here affect the last routine: AssignUnassigned. By default modal vaules are assigned 90% of the time, and random values are assigned 10% of the time. " textAlignment="JUSTIFY" wrappingWidth="286.9999870657921" />
+                  <Label layoutX="11.0" layoutY="121.0" text="Random Assaignment Ratio:" />
+                  <RadioButton fx:id="lowRandomness" layoutX="21.0" layoutY="152.0" mnemonicParsing="false" text="Low" />
+                  <RadioButton fx:id="mediumRandomness" layoutX="114.0" layoutY="152.0" mnemonicParsing="false" text="Medium" />
+                  <RadioButton fx:id="highRandomness" layoutX="220.0" layoutY="152.0" mnemonicParsing="false" text="High" />
+               </children>
+            </Pane>
+         </content>
+      </TitledPane>
+      <ImageView fitHeight="38.0" fitWidth="38.0" layoutX="464.0" layoutY="78.0" opacity="0.72" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../resources/icons/outline_settings_black_24dptitle.png" />
+         </image>
+      </ImageView>
+      <ButtonBar layoutX="-20.0" layoutY="22.0" prefHeight="40.0" prefWidth="1400.0" styleClass="bar">
+         <buttons>
+            <Button fx:id="inputGeneratorButtonTab" mnemonicParsing="false" onAction="#handleInputGeneratorButtonTab" styleClass="first" text="Generate Graph">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_dashboard_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="inputFilesButtonTab" mnemonicParsing="false" onAction="#handleInputFilesButtonTab" styleClass="first" text="Input Files">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/download-multiple.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="userParametersButtonTab" mnemonicParsing="false" onAction="#handleUserParametersButtonTab" styleClass="middle" text="User Attributes">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_group_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="profilesButtonTab" mnemonicParsing="false" onAction="#handleProfilesButtonTab" styleClass="middle" text="Profile Seeds">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_dashboard_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="communitiesButtonTab" mnemonicParsing="false" onAction="#handleCommunitiesButtonTab" styleClass="middle" text="Communities &amp; Profiles">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_device_hub_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="outputFilesButtonTab" graphicTextGap="1.0" mnemonicParsing="false" onAction="#handleOutputFilesButtonTab" styleClass="middle" text="Output Files">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/upload-multiple.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="advancedButtonTab" disable="true" mnemonicParsing="false" styleClass="middle" text="Advanced">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/outline_settings_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="runButtonTab" mnemonicParsing="false" onAction="#handleRunButtonTab" styleClass="last" text="Generate Data">
+               <graphic>
+                  <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/round_play_arrow_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+            <Button fx:id="statisticsButton" mnemonicParsing="false" onAction="#handleStatisticsButton" prefHeight="32.0" prefWidth="92.0" text="Results">
+               <graphic>
+                  <ImageView fitHeight="15.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../resources/icons/baseline_equalizer_black_24dp.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Button>
+         </buttons>
+      </ButtonBar>
+      <TitledPane collapsible="false" layoutX="134.0" layoutY="202.0" prefHeight="394.0" prefWidth="306.0" styleClass="info" text="Profile Seeds">
+         <content>
+            <Pane prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <Text layoutX="4.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="By default each community has a seed profile. A seed profile is a set of defined user characteristics that are used as a starting point for the algorithm to start generating the other users' characteristics in the community. " textAlignment="JUSTIFY" wrappingWidth="295.00000178813934" />
+                  <Label layoutX="27.0" layoutY="232.0" text="Seeds percentage" />
+                  <Spinner fx:id="seedSizeSpinner" layoutX="141.0" layoutY="225.0" prefHeight="30.0" prefWidth="105.0" />
+                  <Button fx:id="helpButton" layoutX="213.0" layoutY="295.0" mnemonicParsing="false" onAction="#handleHelpButton" styleClass="info" text="Help">
+                     <graphic>
+                        <ImageView fitHeight="16.0" fitWidth="21.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../../resources/icons/outline_help_outline_black_24dp.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Button>
+                  <Text layoutX="4.0" layoutY="112.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The seeds percentage corresponds to the percentage of users that awill be seeds from the total amount of users in the communities. Ideally the percentage is around 11%.  The range allowed is from 5% to 20 %. Higher percentages might make the simulation never finish given it wont find enough candidates to fill the amount seeds given." textAlignment="JUSTIFY" wrappingWidth="295.00000178813934" />
+               </children>
+            </Pane>
+         </content>
+      </TitledPane>
+   </children>
+</AnchorPane>
