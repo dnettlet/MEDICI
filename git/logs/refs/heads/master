@@ -1,1 +1,17 @@
-
+0000000000000000000000000000000000000000 84a9db6d65fc8aa255cfe321b9953cf03c1aa75d nani <none> 1580610362 +0100	clone: from https://github.com/sergiongh/SynthOSNdataGeneratorGUI.git
+84a9db6d65fc8aa255cfe321b9953cf03c1aa75d 80d62da882acc3401af68586038bc6b864067138 sergio <none> 1580615535 +0100	commit: add like1 like2 like3 attributes
+80d62da882acc3401af68586038bc6b864067138 5bf9d5e3a10f7c9c83d3fbeff059a0e5477a21d8 sergio <none> 1580616218 +0100	commit: add generate communities input file with Louvain option
+5bf9d5e3a10f7c9c83d3fbeff059a0e5477a21d8 6ca4f9b440268472fe0cffe0ffb8ff245781016c sergio <none> 1580668878 +0100	commit: Add the new page InputFileGenerator barbones. Change all other pages so the buttonBar of each has this page too (copypasta)
+6ca4f9b440268472fe0cffe0ffb8ff245781016c 8954078b35657e1dbe9e9d6e687b76502430060c sergio <none> 1580677891 +0100	commit: added rMat package
+8954078b35657e1dbe9e9d6e687b76502430060c 5425df00e23fb74ad29fe4b57c8a4dae779a6b06 sergio <none> 1580749004 +0100	commit: added FileGenerator page RMAT and Louvain buttons handlers
+5425df00e23fb74ad29fe4b57c8a4dae779a6b06 9975f13f34cc13ea14cba3e645b7a3b638e1cf27 sergio <none> 1580851706 +0100	commit: split defaults files and input files and make possible to cancel louvain generator
+9975f13f34cc13ea14cba3e645b7a3b638e1cf27 90260c85634714fb3c5fe21380b1159ba3cb3334 sergio <none> 1580952087 +0100	commit: added help buttons to the inpit file generator page
+90260c85634714fb3c5fe21380b1159ba3cb3334 badfe273b58b0569df02d663f7dc0b48679c06f4 sergio <none> 1585572790 +0200	commit: Added statistics page overview table for each community & fixed typos & deleted dead code
+badfe273b58b0569df02d663f7dc0b48679c06f4 76c21d64c66f0e870267196fe2af472ab64af651 sergio <none> 1586018490 +0200	commit: Make configuration model frequencies depend directly on the communities file and use the DefaultConfig.xml as starting config instead of the hardcoded
+76c21d64c66f0e870267196fe2af472ab64af651 6a1175f39fe23b5e5fe95f16d43ccc03bcb545b3 sergio <none> 1589303297 +0200	commit: hide unimplemented actions, added simulation quality index, added node counter method to the configuration model
+6a1175f39fe23b5e5fe95f16d43ccc03bcb545b3 8a40599987d87b8d0d5890685b5fc1ac2c6bb97a sergio <none> 1594433001 +0200	commit: remove file open code duplication
+8a40599987d87b8d0d5890685b5fc1ac2c6bb97a f0404a33d3305e205466c5cf62acf2a9021727f4 sergio <none> 1594433565 +0200	commit: use buttonsBar to disable/enable all buttons when running
+f0404a33d3305e205466c5cf62acf2a9021727f4 9afcafa1c9bff3355bb7a730ad4d97fbe5fdaba9 sergio <none> 1596830431 +0200	commit: fix likes in statistics page
+9afcafa1c9bff3355bb7a730ad4d97fbe5fdaba9 70081c086bba699a6db1cfe8040ec7394036c309 sergio <none> 1596830482 +0200	commit: change buttons text to clarify meaning
+70081c086bba699a6db1cfe8040ec7394036c309 58db6d0a862d6b2da84bddc94d046cf3b2856c9c sergio <none> 1597413535 +0200	commit: add close call for input2 file handle
+58db6d0a862d6b2da84bddc94d046cf3b2856c9c 0d22afc42e3aa634fdb236170638c456853858aa sergio <none> 1597415705 +0200	commit: make more space for input text
